@@ -1,0 +1,18 @@
+T 1511341008 19*	Now talking on 22&rbg
+T 1511341008 22*	Topic for 22&rbg is: < ammbauer> zur zeit geistern die RBG-Weisen ständig durch die rechnerhalle. irgendwas funzt nicht. sie hauen auch oft mit der faust auf den tisch und schreien "ERLACHER"
+T 1511341008 22*	Topic for 22&rbg set by 26betterworld!~pepe@atrbg87.informatik.tu-muenchen.de (24Wed Sep 20 12:09:49 2017)
+T 1511342944 19*	Now talking on 22&rbg
+T 1511342944 22*	Topic for 22&rbg is: < ammbauer> zur zeit geistern die RBG-Weisen ständig durch die rechnerhalle. irgendwas funzt nicht. sie hauen auch oft mit der faust auf den tisch und schreien "ERLACHER"
+T 1511342944 22*	Topic for 22&rbg set by 26betterworld!~pepe@atrbg87.informatik.tu-muenchen.de (24Wed Sep 20 12:09:49 2017)
+T 1511344728 18<askrbg18>	[kb] Benutzerhandbuch für Xerox Drucker - https://kb.in.tum.de/question/571/
+T 1511346659 18<askrbg18>	[kb] Wie lade ich Matlab herunter? - https://kb.in.tum.de/question/153/
+T 1511348835 23*	alinaya (~alinaya@athelpdesk3.informatik.tu-muenchen.de23) has joined
+T 1511355140 24*	alinaya has quit ("Leaving.")
+T 1511778117 19*	Now talking on 22&rbg
+T 1511778117 22*	Topic for 22&rbg is: < ammbauer> zur zeit geistern die RBG-Weisen ständig durch die rechnerhalle. irgendwas funzt nicht. sie hauen auch oft mit der faust auf den tisch und schreien "ERLACHER"
+T 1511778117 22*	Topic for 22&rbg set by 26betterworld!~pepe@atrbg87.informatik.tu-muenchen.de (24Wed Sep 20 12:09:49 2017)
+T 1511779953 24*	Vince_ has quit (EOF From client)
+T 1511780156 23*	Vince_ (~fafardv@athelpdesk1.informatik.tu-muenchen.de23) has joined
+T 1511781911 18<askrbg18>	[kb] Labor Keys für Administratoren - https://kb.in.tum.de/question/577/
+T 1511782271 18<askrbg18>	[kb] Bietet TUM Windows 10 LTSB Version an? - https://kb.in.tum.de/question/578/
+T 1511782938 24*	erbesdob has quit (EOF From client)

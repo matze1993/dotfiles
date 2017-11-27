@@ -1,0 +1,11 @@
+T 1511341008 19*	Now talking on 22&helpdesk
+T 1511342944 19*	Now talking on 22&helpdesk
+T 1511343280 18<kahraman118>	hallo Matthias
+T 1511345473 20<puchstei>30	hallo ayesegül
+T 1511348049 18<kahraman118>	TUM#2017112110008105 — Unable to complete product activation of microsoft office after installation     -> er hat eigenltich Office aktiviert und hat die Berechtigungen. So einen Fall hatten wir schon mal. Ich habe  bei ihm office deaktiviert und würde vorschlagen dass er alle alten office dateien entfernt und office nochmal installiert und aktiviert. Das hatte letztes Mal geholfen.  
+T 1511348849 23*	alinaya (~alinaya@athelpdesk3.informatik.tu-muenchen.de23) has joined
+T 1511355140 24*	alinaya has quit ("Leaving.")
+T 1511778117 19*	Now talking on 22&helpdesk
+T 1511778768 23*	kahraman (~kahraman@laprbg73.informatik.tu-muenchen.de23) has joined
+T 1511779953 24*	Vince_ has quit (EOF From client)
+T 1511780156 23*	Vince_ (~fafardv@athelpdesk1.informatik.tu-muenchen.de23) has joined
