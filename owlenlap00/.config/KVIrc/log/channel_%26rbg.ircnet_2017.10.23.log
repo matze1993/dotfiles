@@ -1,0 +1,124 @@
+0 ### Log session started at Mon Oct 23 08:20:02 2017 ###
+20 [08:20:02] !npuchstei [~kvirc@!hlaprbg108.informatik.tu-muenchen.de] has joined !c&rbg
+23 [08:20:03] Channel topic is: < ammbauer> zur zeit geistern die RBG-Weisen ständig durch die rechnerhalle. irgendwas funzt nicht. sie hauen auch oft mit der faust auf den tisch und schreien "ERLACHER"
+23 [08:20:03] Topic was set by !nbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de on Wed Sep 20 12:09:49 2017
+51 [08:20:04] !sTUM.DE [*@*] has set mode !c+tk bananensalami
+15 [08:20:06] Channel synchronized in 3.266 seconds
+20 [08:30:12] !nkurzk [~kurzk@!hatrbg13.informatik.tu-muenchen.de] has joined !c&rbg
+38 [08:30:13] !naskrbg [~askrbg@!hvmrbg29.informatik.tu-muenchen.de] has set mode !c+o !nkurzk
+24 [08:41:36] <1,11!ncpuchstei> ANS4037E Object '/srv/if12/home_if12/mertes/VirtualBox VMs/Windows 10/Windows 10.vdi' changed during processing. Object skipped.
+24 [08:41:36] <1,11!ncpuchstei> ANS1228E Sending of object '/srv/if12/home_if12/mertes/VirtualBox VMs/Windows 10/Windows 10.vdi' failed. 
+24 [08:41:36] <1,11!ncpuchstei> die datei ist 3 mal hintereinander gefailed
+25 [08:42:27] <10,1@!ncerlacher_remote> das ist wenig überraschend :D
+24 [08:42:55] <1,11!ncpuchstei> die vm läuft halt
+25 [08:45:10] <10,1@!ncerlacher_remote> jo
+25 [08:45:36] <10,1@!ncerlacher_remote> wäre vielleicht gut ihm eine email zu schicken und ihm das zu sagen, dann weiß er die RBG sorgt und kümmert sich :D
+25 [08:46:04] <10,1@!ncerlacher_remote> (und zu sagen dass wenn er die VM nachts ausschaltet kann sie auch gesichert werden)
+24 [08:47:23] <1,11!ncpuchstei> müsste der christian mertes sein oder?
+2 [08:47:37] <13,11@!ncduermeia> puchstei: genau
+24 [08:47:54] <1,11!ncpuchstei> soll ich die mail schreiben oder will wer anderes? :D
+2 [08:51:14] <13,11@!ncduermeia> puchstei: wenn du willst gerne :) wir (systemgruppe) helfen dir da auch gerne bei unklarheiten. der christian mertes ist auch nett und froh wenn man ihm das mitteilt
+20 [09:19:56] !nerbesdob [~erbesdob@!hncrbg11.informatik.tu-muenchen.de] has joined !c&rbg
+25 [09:32:19] <10,1@!ncerlacher_remote> https://ucentral.in.tum.de/cgi-bin/passwd.cgi hat jetzt ein neues feature, versucht bitte es kaputtzumachen :D
+25 [09:36:47] <10,1@!ncerlacher_remote> (neues feature ist aber nur sichtbar wenn man im rbg-netz ist)
+25 [09:36:59] <10,1@!ncerlacher_remote> (äh, im informatik-netz)
+24 [09:59:45] <1,11!ncpuchstei> hab mir von meinem pwmgr ein pw generieren lassen (Vÿv·Øà-¸&ò8¢ª¦·tY;ÛmjNÚ&,) und jetzt hängt die Benachrichtung bei "Checking password, please wait", ich vermute des script kommt mit dem extended ascii nicht klar, wobei die https://pwndwords.in.tum.de/passwords/ damit klar kommt
+20 [10:24:24] !nalinaya [~alinaya@!hathelpdesk3.informatik.tu-muenchen.de] has joined !c&rbg
+20 [10:35:55] !nZappe [~zappet@!hathelpdesk2.informatik.tu-muenchen.de] has joined !c&rbg
+2 [10:59:35] <10,1@!ncerlacher_remote> puchstei: sehr gut :D
+2 [11:07:44] <10,1@!ncerlacher_remote> puchstei: das läuft alles per client-js, hast du da irgendwelche fehler?
+2 [11:11:41] <10,1@!ncerlacher_remote> puchstei: hmm, kann den fehler nicht nachvollziehen, wenn ich das paste geht es bei mir
+20 [11:12:36] !nnoAck [~noackh@!hatrbg3.informatik.tu-muenchen.de] has joined !c&rbg
+38 [11:12:37] !naskrbg [~askrbg@!hvmrbg29.informatik.tu-muenchen.de] has set mode !c+o !nnoAck
+20 [11:15:55] !nmihaylol [~mihaylol@!hathelpdesk4.informatik.tu-muenchen.de] has joined !c&rbg
+2 [11:24:48] <10,1@!ncerlacher_remote> puchstei: ich denke ich bau mal noch einen timeout ein...
+34 [11:34:20] !nmihaylol [~mihaylol@!hathelpdesk4.informatik.tu-muenchen.de] has quit IRC: EOF From client
+24 [11:37:09] <1,11!ncpuchstei> habs gerade nochmal getestet und jetzt läd er auch nicht mehr so lang, hatte einen networkerror im log stehen, fetch timed out, des wird des problem gewesen sein, timeout hört sich aber gut an, damit es nicht ewig durchläuft
+25 [11:38:04] <10,1@!ncerlacher_remote> jo, ich stoße leider gerade auf das problem dass die semantik von $.ajax immer perverse wird je länger man die doku anschaut...
+24 [11:42:41] <1,11!ncpuchstei> typisch javascript :D
+25 [11:43:56] <10,1@!ncerlacher_remote> indeed
+34 [12:01:43] !nnoackh [~noackh@!hatrbg3.informatik.tu-muenchen.de] has quit IRC: "Leaving."
+20 [12:03:18] !nnoackh [~noackh@!hatrbg3.informatik.tu-muenchen.de] has joined !c&rbg
+38 [12:03:20] !naskrbg [~askrbg@!hvmrbg29.informatik.tu-muenchen.de] has set mode !c+o !nnoackh
+20 [12:05:03] !nkahraman [~kahraman@!hlaprbg73.informatik.tu-muenchen.de] has joined !c&rbg
+2 [12:12:48] <10,1@!ncerlacher_remote> puchstei: timeout ist auf https://ucentral.in.tum.de/cgi-bin/test/passwd.cgi (testinstanz) drin, schau doch mal ob du das reproduzieren kannst
+25 [12:12:57] <10,1@!ncerlacher_remote> wundert mich eigentlich dass es da einen timeout gab :)
+24 [12:24:10] <1,11!ncpuchstei> Error trying to reach pwndwords.in.tum.de: error ()
+24 [12:24:10] <1,11!ncpuchstei> passwd.cgi:103:3
+24 [12:25:31] <1,11!ncpuchstei> Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://pwndwords.in.tum.de/passwords/%C2%B7!%C2%BFrX)%C3%99/%C2%BDS%C3%B0%C3%B5%C2%AF)D%3E%C3%82b%C2%A19Vi7%C3%86%C2%B5. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing).
+24 [12:25:51] <1,11!ncpuchstei> deswegen gibts bei mir den timeout
+25 [12:26:57] <10,1@!ncerlacher_remote> wut
+25 [12:27:23] <10,1@!ncerlacher_remote> den header liefere ich doch :D
+25 [12:27:51] <10,1@!ncerlacher_remote> da sollte immer "Access-Control-Allow-Origin: *" als header mitkommen
+25 [12:29:20] <10,1@!ncerlacher_remote> hmm, wenn dein browser einen fetch auf https://pwndwords.in.tum.de/passwords/ macht um nach dem CORS Header zu suchen nicht...
+25 [12:29:27] <10,1@!ncerlacher_remote> aber das sollte er eigentlich nicht :D
+25 [12:29:39] <10,1@!ncerlacher_remote> was benutzt du denn für einen browser?
+25 [12:30:14] <10,1@!ncerlacher_remote> oh, weeeeird
+25 [12:30:31] <10,1@!ncerlacher_remote> aha
+25 [12:30:40] <10,1@!ncerlacher_remote> da ist ein extra '/' drin
+25 [12:30:53] <10,1@!ncerlacher_remote> warum ist da ein unescapeter slash drin?!
+25 [12:30:59] <10,1@!ncerlacher_remote> oh, weil ich nix escape :D
+24 [12:30:59] <1,11!ncpuchstei> ich hab den firefox-developer
+24 [12:31:20] <1,11!ncpuchstei> Mozilla Firefox 57.0
+24 [12:32:38] <1,11!ncpuchstei> gute Frage woher der kommt....
+25 [12:33:52] <10,1@!ncerlacher_remote> http://blog.simplytestable.com/allowing-slashes-in-url-path-with-apache/
+25 [12:33:54] <10,1@!ncerlacher_remote> :D
+24 [12:36:55] <1,11!ncpuchstei> nach nem refresh gings jetzt
+25 [12:37:37] <10,1@!ncerlacher_remote> hmm, bei mir irgendwie nicht
+25 [12:37:53] <10,1@!ncerlacher_remote> Error trying to reach pwndwords.in.tum.de: error ()
+25 [12:38:04] <10,1@!ncerlacher_remote> die fehlerausgabe ist auch exzellent
+25 [12:39:05] <10,1@!ncerlacher_remote> also bei mir gehts nicht
+25 [12:39:11] <10,1@!ncerlacher_remote> sehr kurios
+24 [12:44:21] <1,11!ncpuchstei> ich find auch nicht wirklich was
+25 [12:44:42] <10,1@!ncerlacher_remote> strange, offenbar muss der wenn ein '/' im string ist so viel extra parsing machen dass es bei mir (in australien) dann einfach zum timeout kommt
+24 [12:45:28] <1,11!ncpuchstei> was passiert wenn des '/' escaped wird?
+24 [12:45:46] <1,11!ncpuchstei> dann sollte des doch eig gehen
+24 [12:46:32] <1,11!ncpuchstei> ich teste mal weitere sonderzeichen
+25 [12:46:39] <10,1@!ncerlacher_remote> sowohl apache als auch flask unescapen das dann :D
+25 [12:46:50] <10,1@!ncerlacher_remote> wobei man es bei apache eben abstellen kann
+24 [12:46:56] <1,11!ncpuchstei> damn :D
+25 [12:50:27] <10,1@!ncerlacher_remote> irgendwie is bei mir hier nur das internet so schlecht geworden
+24 [12:50:27] <1,11!ncpuchstei> also bei mir kommt wenn ich nur '/' nutze der error, wenn ich ein '\' davor setze funktioniert die anfrage
+25 [12:50:55] <10,1@!ncerlacher_remote> wenn du ein '\' in die textbox tust?
+34 [12:51:08] !nerbesdob [~erbesdob@!hncrbg11.informatik.tu-muenchen.de] has quit IRC: "Leaving"
+24 [12:51:13] <1,11!ncpuchstei> jop
+25 [12:51:28] <10,1@!ncerlacher_remote> das sollte echt keinen unterschied machen...
+25 [12:51:50] <10,1@!ncerlacher_remote> wenn das einen unterschied macht ist im url-parsing von apache oder flask was sehr falsch :D
+25 [12:52:11] <10,1@!ncerlacher_remote> also eigentlich sollte jetzt auch garkein error mehr kommen
+25 [12:52:15] <10,1@!ncerlacher_remote> auf der test-instanz
+24 [12:52:24] <1,11!ncpuchstei> okay. egal was ich vor des '/' es funktioniert(zb hello/world/ funktioniert)
+25 [12:52:40] <10,1@!ncerlacher_remote> ah, wenn der / am anfang ist geht es nicht?
+25 [12:53:26] <10,1@!ncerlacher_remote> ok, ein / alleine geht nicht
+25 [12:53:39] <10,1@!ncerlacher_remote> aber /123 geht
+24 [12:54:00] <1,11!ncpuchstei> jo bei mir auch
+25 [12:54:30] <10,1@!ncerlacher_remote> wobei ich da direkt zweifel kriege ob es den / dann nicht entfernt...
+20 [12:56:41] !nVince_ [~fafardv@!hathelpdesk1.informatik.tu-muenchen.de] has joined !c&rbg
+24 [12:57:20] <1,11!ncpuchstei> also wenn ich pwndwords ansurfe zB mit https://pwndwords.in.tum.de/passwords/// dann kommt seite nicht gefunden und bei ///123 kommt found, also vermutlich verwirft der die führenden '/' einfach
+24 [12:58:11] <1,11!ncpuchstei> curl https://pwndwords.in.tum.de/passwords///                                 [12:57:36]
+24 [12:58:11] <1,11!ncpuchstei> No password⏎                
+25 [12:58:26] <10,1@!ncerlacher_remote> jo...
+25 [12:59:06] <10,1@!ncerlacher_remote> ich glaube ich änder das in einen get-parameter... ist ja schlimm dieses pfad-geparse das sowohl browser als auch server einfach tun wie sie es lustig sind :D
+24 [13:01:45] <1,11!ncpuchstei> des ist echt schlimm :D
+24 [13:01:45] <1,11!ncpuchstei> wäre nett wenn es da einen standard geben würde 
+25 [13:03:34] <10,1@!ncerlacher_remote> gibt es ja...
+25 [13:03:56] <10,1@!ncerlacher_remote> aber wer will sich schon an standards halten :D
+24 [13:04:23] <1,11!ncpuchstei> des würde es entwicklern einfach viel zu einfach machen. des wäre ja skandalös :D
+20 [13:11:20] !nomus [~omus@!hatrbg40.informatik.tu-muenchen.de] has joined !c&rbg
+2 [13:22:41] <10,1@!ncerlacher_remote> puchstei:
+25 [13:22:46] <10,1@!ncerlacher_remote> ups, zu früh enter gedrückt
+25 [13:22:58] <10,1@!ncerlacher_remote> time curl -v 'https://pwndwords.in.tum.de/passwords/?password=%2F%2F'
+34 [13:43:18] !nkahraman [~kahraman@!hlaprbg73.informatik.tu-muenchen.de] has quit IRC: EOF From client
+20 [13:45:32] !nkahraman [~kahraman@!hlaprbg73.informatik.tu-muenchen.de] has joined !c&rbg
+34 [15:52:13] !nalinaya [~alinaya@!hathelpdesk3.informatik.tu-muenchen.de] has quit IRC: "Leaving."
+34 [15:57:26] !nhinano [~schwalb@!hmacrbg3.informatik.tu-muenchen.de] has quit IRC: "Leaving."
+20 [16:26:27] !nhinano [~schwalb@!hmacrbg3.informatik.tu-muenchen.de] has joined !c&rbg
+38 [16:26:29] !naskrbg [~askrbg@!hvmrbg29.informatik.tu-muenchen.de] has set mode !c+o !nhinano
+34 [16:31:36] !nkahraman [~kahraman@!hlaprbg73.informatik.tu-muenchen.de] has quit IRC: Ping timeout
+34 [16:44:27] !nhinano [~schwalb@!hmacrbg3.informatik.tu-muenchen.de] has quit IRC: "Leaving."
+34 [16:52:41] !nbamichae_ [~bamichae@!hathelpdesk5.informatik.tu-muenchen.de] has quit IRC: "Leaving"
+20 [17:07:53] !nhinano [~schwalb@!hmacrbg3.informatik.tu-muenchen.de] has joined !c&rbg
+38 [17:07:54] !naskrbg [~askrbg@!hvmrbg29.informatik.tu-muenchen.de] has set mode !c+o !nhinano
+34 [17:15:32] !nhinano [~schwalb@!hmacrbg3.informatik.tu-muenchen.de] has quit IRC: "Leaving."
+20 [17:36:08] !nhinano [~schwalb@!hmacrbg3.informatik.tu-muenchen.de] has joined !c&rbg
+38 [17:36:09] !naskrbg [~askrbg@!hvmrbg29.informatik.tu-muenchen.de] has set mode !c+o !nhinano
+21 [17:47:11] !nZappe [~zappet@!hathelpdesk2.informatik.tu-muenchen.de] has left !c&rbg

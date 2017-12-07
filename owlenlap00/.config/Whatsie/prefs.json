@@ -1,0 +1,12 @@
+{
+  "window-bounds": {
+    "x": 15,
+    "y": 35,
+    "width": 940,
+    "height": 1030
+  },
+  "theme": "orange",
+  "show-tray": true,
+  "exclude-muted-chats": false,
+  "analytics-uid": "98a609a8-e8df-4884-940a-553ed392c8f3"
+}

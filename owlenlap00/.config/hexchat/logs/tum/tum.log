@@ -1,0 +1,2857 @@
+**** BEGIN LOGGING AT Wed Sep 27 15:48:37 2017
+
+Sep 27 15:48:37 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Wed Sep 27 15:50:15 2017
+
+**** BEGIN LOGGING AT Wed Sep 27 15:50:15 2017
+
+Sep 27 15:50:15 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 15:50:15 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 15:50:15 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 15:50:15 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 15:50:15 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+**** BEGIN LOGGING AT Wed Sep 27 15:52:29 2017
+
+Sep 27 15:52:29 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 15:52:29 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 15:52:29 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 15:52:29 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 15:52:29 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 15:52:29 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 15:52:29 *	276NAAA55 :your unique ID
+Sep 27 15:52:29 *	There are 30607 users and 3 services on 28 servers
+Sep 27 15:52:29 *	68 :operators online
+Sep 27 15:52:29 *	3 :unknown connections
+Sep 27 15:52:29 *	14809 :channels formed
+Sep 27 15:52:29 *	I have 147 users, 0 services and 2 servers
+Sep 27 15:52:29 *	147 151 :Current local users 147, max 151
+Sep 27 15:52:29 *	30607 37325 :Current global users 30607, max 37325
+Sep 27 15:52:29 *	- TUM.DE Message of the Day - 
+Sep 27 15:52:29 *	- 28/12/2015 23:33
+Sep 27 15:52:29 *	- *********************************************************************
+Sep 27 15:52:29 *	-     _____  _   _   _     _
+Sep 27 15:52:29 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 15:52:29 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 15:52:29 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-    - Offene Ports: 6660 - 6669
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 15:52:29 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 15:52:29 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 15:52:29 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 15:52:29 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 15:52:29 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 15:52:29 *	-      dagegen vorgegangen.
+Sep 27 15:52:29 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 15:52:29 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 15:52:29 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 15:52:29 *	-      per K-Line gesperrt.
+Sep 27 15:52:29 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 15:52:29 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 15:52:29 *	-      gibt es sowieso nicht.
+Sep 27 15:52:29 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 15:52:29 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 15:52:29 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 15:52:29 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 15:52:29 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 15:52:29 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 15:52:29 *	-      oder Vorwarnung vorbehalten.
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 15:52:29 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-    * http://irc.fu-berlin.de/
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 15:52:29 *	-   man auch unter:
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-    * http://irc.in.tum.de/
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-   WICHTIGER HINWEIS:
+Sep 27 15:52:29 *	-   ==================
+Sep 27 15:52:29 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 15:52:29 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 15:52:29 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 15:52:29 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 15:52:29 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 15:52:29 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 15:52:29 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 15:52:29 *	-      113 (auth).
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-  Bei Problemen bitte erst:
+Sep 27 15:52:29 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 15:52:29 *	-  lesen.
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 15:52:29 *	- 
+Sep 27 15:52:29 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 15:52:29 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 15:52:29 *	-       Channel: !opers:*.de
+Sep 27 15:52:29 *	-                                      mkh, Mr-Spock
+Sep 27 15:52:29 *	-                                      <irc@in.tum.de>
+Sep 27 15:52:29 *	- *********************************************************************
+Sep 27 15:52:29 *	End of MOTD command.
+Sep 27 15:52:29 *	Server is currently in split-mode.
+Sep 27 15:52:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 15:52:37 *	Disconnected ()
+Sep 27 15:52:47 *	Looking up irc.in.tum.de
+Sep 27 15:52:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 15:52:47 *	Connected. Now logging in.
+Sep 27 15:52:47 *	Please wait while we process your connection.
+Sep 27 15:54:25 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 15:54:25 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 15:54:25 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 15:54:25 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 15:54:25 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 15:54:25 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 15:54:25 *	276NAAA56 :your unique ID
+Sep 27 15:54:25 *	There are 30607 users and 3 services on 28 servers
+Sep 27 15:54:25 *	68 :operators online
+Sep 27 15:54:25 *	4 :unknown connections
+Sep 27 15:54:25 *	14799 :channels formed
+Sep 27 15:54:25 *	I have 147 users, 0 services and 2 servers
+Sep 27 15:54:25 *	147 151 :Current local users 147, max 151
+Sep 27 15:54:25 *	30607 37325 :Current global users 30607, max 37325
+Sep 27 15:54:25 *	- TUM.DE Message of the Day - 
+Sep 27 15:54:25 *	- 28/12/2015 23:33
+Sep 27 15:54:25 *	- *********************************************************************
+Sep 27 15:54:25 *	-     _____  _   _   _     _
+Sep 27 15:54:25 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 15:54:25 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 15:54:25 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-    - Offene Ports: 6660 - 6669
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 15:54:25 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 15:54:25 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 15:54:25 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 15:54:25 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 15:54:25 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 15:54:25 *	-      dagegen vorgegangen.
+Sep 27 15:54:25 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 15:54:25 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 15:54:25 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 15:54:25 *	-      per K-Line gesperrt.
+Sep 27 15:54:25 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 15:54:25 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 15:54:25 *	-      gibt es sowieso nicht.
+Sep 27 15:54:25 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 15:54:25 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 15:54:25 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 15:54:25 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 15:54:25 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 15:54:25 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 15:54:25 *	-      oder Vorwarnung vorbehalten.
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 15:54:25 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-    * http://irc.fu-berlin.de/
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 15:54:25 *	-   man auch unter:
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-    * http://irc.in.tum.de/
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-   WICHTIGER HINWEIS:
+Sep 27 15:54:25 *	-   ==================
+Sep 27 15:54:25 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 15:54:25 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 15:54:25 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 15:54:25 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 15:54:25 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 15:54:25 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 15:54:25 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 15:54:25 *	-      113 (auth).
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-  Bei Problemen bitte erst:
+Sep 27 15:54:25 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 15:54:25 *	-  lesen.
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 15:54:25 *	- 
+Sep 27 15:54:25 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 15:54:25 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 15:54:25 *	-       Channel: !opers:*.de
+Sep 27 15:54:25 *	-                                      mkh, Mr-Spock
+Sep 27 15:54:25 *	-                                      <irc@in.tum.de>
+Sep 27 15:54:25 *	- *********************************************************************
+Sep 27 15:54:25 *	End of MOTD command.
+Sep 27 15:54:25 *	Server is currently in split-mode.
+Sep 27 15:54:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 15:54:37 *	Disconnected ()
+Sep 27 15:54:47 *	Looking up irc.in.tum.de
+Sep 27 15:54:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 15:54:47 *	Connected. Now logging in.
+Sep 27 15:54:47 *	Please wait while we process your connection.
+Sep 27 15:56:21 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 15:56:21 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 15:56:21 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 15:56:21 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 15:56:21 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 15:56:21 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 15:56:21 *	276NAAA57 :your unique ID
+Sep 27 15:56:21 *	There are 30602 users and 3 services on 28 servers
+Sep 27 15:56:21 *	68 :operators online
+Sep 27 15:56:21 *	2 :unknown connections
+Sep 27 15:56:21 *	14802 :channels formed
+Sep 27 15:56:21 *	I have 147 users, 0 services and 2 servers
+Sep 27 15:56:21 *	147 151 :Current local users 147, max 151
+Sep 27 15:56:21 *	30602 37325 :Current global users 30602, max 37325
+Sep 27 15:56:21 *	- TUM.DE Message of the Day - 
+Sep 27 15:56:21 *	- 28/12/2015 23:33
+Sep 27 15:56:21 *	- *********************************************************************
+Sep 27 15:56:21 *	-     _____  _   _   _     _
+Sep 27 15:56:21 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 15:56:21 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 15:56:21 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-    - Offene Ports: 6660 - 6669
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 15:56:21 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 15:56:21 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 15:56:21 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 15:56:21 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 15:56:21 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 15:56:21 *	-      dagegen vorgegangen.
+Sep 27 15:56:21 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 15:56:21 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 15:56:21 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 15:56:21 *	-      per K-Line gesperrt.
+Sep 27 15:56:21 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 15:56:21 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 15:56:21 *	-      gibt es sowieso nicht.
+Sep 27 15:56:21 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 15:56:21 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 15:56:21 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 15:56:21 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 15:56:21 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 15:56:21 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 15:56:21 *	-      oder Vorwarnung vorbehalten.
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 15:56:21 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-    * http://irc.fu-berlin.de/
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 15:56:21 *	-   man auch unter:
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-    * http://irc.in.tum.de/
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-   WICHTIGER HINWEIS:
+Sep 27 15:56:21 *	-   ==================
+Sep 27 15:56:21 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 15:56:21 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 15:56:21 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 15:56:21 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 15:56:21 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 15:56:21 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 15:56:21 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 15:56:21 *	-      113 (auth).
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-  Bei Problemen bitte erst:
+Sep 27 15:56:21 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 15:56:21 *	-  lesen.
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 15:56:21 *	- 
+Sep 27 15:56:21 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 15:56:21 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 15:56:21 *	-       Channel: !opers:*.de
+Sep 27 15:56:21 *	-                                      mkh, Mr-Spock
+Sep 27 15:56:21 *	-                                      <irc@in.tum.de>
+Sep 27 15:56:21 *	- *********************************************************************
+Sep 27 15:56:21 *	End of MOTD command.
+Sep 27 15:56:21 *	Server is currently in split-mode.
+Sep 27 15:56:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 15:56:37 *	Disconnected ()
+Sep 27 15:56:47 *	Looking up irc.in.tum.de
+Sep 27 15:56:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 15:56:47 *	Connected. Now logging in.
+Sep 27 15:56:47 *	Please wait while we process your connection.
+Sep 27 15:58:18 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 15:58:18 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 15:58:18 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 15:58:18 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 15:58:18 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 15:58:18 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 15:58:18 *	276NAAA58 :your unique ID
+Sep 27 15:58:18 *	There are 30613 users and 3 services on 28 servers
+Sep 27 15:58:18 *	68 :operators online
+Sep 27 15:58:18 *	2 :unknown connections
+Sep 27 15:58:18 *	14804 :channels formed
+Sep 27 15:58:18 *	I have 147 users, 0 services and 2 servers
+Sep 27 15:58:18 *	147 151 :Current local users 147, max 151
+Sep 27 15:58:18 *	30613 37325 :Current global users 30613, max 37325
+Sep 27 15:58:18 *	- TUM.DE Message of the Day - 
+Sep 27 15:58:18 *	- 28/12/2015 23:33
+Sep 27 15:58:18 *	- *********************************************************************
+Sep 27 15:58:18 *	-     _____  _   _   _     _
+Sep 27 15:58:18 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 15:58:18 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 15:58:18 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-    - Offene Ports: 6660 - 6669
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 15:58:18 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 15:58:18 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 15:58:18 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 15:58:18 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 15:58:18 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 15:58:18 *	-      dagegen vorgegangen.
+Sep 27 15:58:18 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 15:58:18 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 15:58:18 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 15:58:18 *	-      per K-Line gesperrt.
+Sep 27 15:58:18 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 15:58:18 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 15:58:18 *	-      gibt es sowieso nicht.
+Sep 27 15:58:18 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 15:58:18 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 15:58:18 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 15:58:18 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 15:58:18 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 15:58:18 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 15:58:18 *	-      oder Vorwarnung vorbehalten.
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 15:58:18 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-    * http://irc.fu-berlin.de/
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 15:58:18 *	-   man auch unter:
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-    * http://irc.in.tum.de/
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-   WICHTIGER HINWEIS:
+Sep 27 15:58:18 *	-   ==================
+Sep 27 15:58:18 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 15:58:18 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 15:58:18 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 15:58:18 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 15:58:18 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 15:58:18 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 15:58:18 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 15:58:18 *	-      113 (auth).
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-  Bei Problemen bitte erst:
+Sep 27 15:58:18 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 15:58:18 *	-  lesen.
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 15:58:18 *	- 
+Sep 27 15:58:18 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 15:58:18 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 15:58:18 *	-       Channel: !opers:*.de
+Sep 27 15:58:18 *	-                                      mkh, Mr-Spock
+Sep 27 15:58:18 *	-                                      <irc@in.tum.de>
+Sep 27 15:58:18 *	- *********************************************************************
+Sep 27 15:58:18 *	End of MOTD command.
+Sep 27 15:58:18 *	Server is currently in split-mode.
+Sep 27 15:58:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 15:58:37 *	Disconnected ()
+Sep 27 15:58:47 *	Looking up irc.in.tum.de
+Sep 27 15:58:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 15:58:47 *	Connected. Now logging in.
+Sep 27 15:58:47 *	Please wait while we process your connection.
+Sep 27 16:00:23 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:00:23 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:00:23 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:00:23 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:00:23 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:00:23 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:00:23 *	276NAAA59 :your unique ID
+Sep 27 16:00:23 *	There are 30483 users and 3 services on 28 servers
+Sep 27 16:00:23 *	68 :operators online
+Sep 27 16:00:23 *	14804 :channels formed
+Sep 27 16:00:23 *	I have 147 users, 0 services and 2 servers
+Sep 27 16:00:23 *	147 151 :Current local users 147, max 151
+Sep 27 16:00:23 *	30483 37325 :Current global users 30483, max 37325
+Sep 27 16:00:23 *	- TUM.DE Message of the Day - 
+Sep 27 16:00:23 *	- 28/12/2015 23:33
+Sep 27 16:00:23 *	- *********************************************************************
+Sep 27 16:00:23 *	-     _____  _   _   _     _
+Sep 27 16:00:23 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:00:23 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:00:23 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:00:23 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:00:23 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:00:23 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:00:23 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:00:23 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:00:23 *	-      dagegen vorgegangen.
+Sep 27 16:00:23 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:00:23 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:00:23 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:00:23 *	-      per K-Line gesperrt.
+Sep 27 16:00:23 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:00:23 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:00:23 *	-      gibt es sowieso nicht.
+Sep 27 16:00:23 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:00:23 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:00:23 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:00:23 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:00:23 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:00:23 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:00:23 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:00:23 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:00:23 *	-   man auch unter:
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-    * http://irc.in.tum.de/
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-   WICHTIGER HINWEIS:
+Sep 27 16:00:23 *	-   ==================
+Sep 27 16:00:23 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:00:23 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:00:23 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:00:23 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:00:23 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:00:23 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:00:23 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:00:23 *	-      113 (auth).
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-  Bei Problemen bitte erst:
+Sep 27 16:00:23 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:00:23 *	-  lesen.
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:00:23 *	- 
+Sep 27 16:00:23 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:00:23 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:00:23 *	-       Channel: !opers:*.de
+Sep 27 16:00:23 *	-                                      mkh, Mr-Spock
+Sep 27 16:00:23 *	-                                      <irc@in.tum.de>
+Sep 27 16:00:23 *	- *********************************************************************
+Sep 27 16:00:23 *	End of MOTD command.
+Sep 27 16:00:23 *	Server is currently in split-mode.
+Sep 27 16:00:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:00:37 *	Disconnected ()
+Sep 27 16:00:47 *	Looking up irc.in.tum.de
+Sep 27 16:00:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:00:47 *	Connected. Now logging in.
+Sep 27 16:00:47 *	Please wait while we process your connection.
+Sep 27 16:02:21 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:02:21 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:02:21 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:02:21 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:02:21 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:02:21 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:02:21 *	276NAAA6A :your unique ID
+Sep 27 16:02:21 *	There are 30567 users and 3 services on 28 servers
+Sep 27 16:02:21 *	68 :operators online
+Sep 27 16:02:21 *	3 :unknown connections
+Sep 27 16:02:21 *	14802 :channels formed
+Sep 27 16:02:21 *	I have 147 users, 0 services and 2 servers
+Sep 27 16:02:21 *	147 151 :Current local users 147, max 151
+Sep 27 16:02:21 *	30567 37325 :Current global users 30567, max 37325
+Sep 27 16:02:21 *	- TUM.DE Message of the Day - 
+Sep 27 16:02:21 *	- 28/12/2015 23:33
+Sep 27 16:02:21 *	- *********************************************************************
+Sep 27 16:02:21 *	-     _____  _   _   _     _
+Sep 27 16:02:21 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:02:21 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:02:21 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:02:21 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:02:21 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:02:21 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:02:21 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:02:21 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:02:21 *	-      dagegen vorgegangen.
+Sep 27 16:02:21 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:02:21 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:02:21 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:02:21 *	-      per K-Line gesperrt.
+Sep 27 16:02:21 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:02:21 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:02:21 *	-      gibt es sowieso nicht.
+Sep 27 16:02:21 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:02:21 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:02:21 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:02:21 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:02:21 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:02:21 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:02:21 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:02:21 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:02:21 *	-   man auch unter:
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-    * http://irc.in.tum.de/
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-   WICHTIGER HINWEIS:
+Sep 27 16:02:21 *	-   ==================
+Sep 27 16:02:21 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:02:21 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:02:21 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:02:21 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:02:21 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:02:21 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:02:21 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:02:21 *	-      113 (auth).
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-  Bei Problemen bitte erst:
+Sep 27 16:02:21 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:02:21 *	-  lesen.
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:02:21 *	- 
+Sep 27 16:02:21 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:02:21 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:02:21 *	-       Channel: !opers:*.de
+Sep 27 16:02:21 *	-                                      mkh, Mr-Spock
+Sep 27 16:02:21 *	-                                      <irc@in.tum.de>
+Sep 27 16:02:21 *	- *********************************************************************
+Sep 27 16:02:21 *	End of MOTD command.
+Sep 27 16:02:21 *	Server is currently in split-mode.
+Sep 27 16:02:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:02:37 *	Disconnected ()
+Sep 27 16:02:47 *	Looking up irc.in.tum.de
+Sep 27 16:02:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:02:47 *	Connected. Now logging in.
+Sep 27 16:02:47 *	Please wait while we process your connection.
+Sep 27 16:04:34 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:04:34 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:04:34 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:04:34 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:04:34 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:04:34 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:04:34 *	276NAAA6B :your unique ID
+Sep 27 16:04:34 *	There are 30603 users and 3 services on 28 servers
+Sep 27 16:04:34 *	68 :operators online
+Sep 27 16:04:34 *	4 :unknown connections
+Sep 27 16:04:34 *	14802 :channels formed
+Sep 27 16:04:34 *	I have 147 users, 0 services and 2 servers
+Sep 27 16:04:34 *	147 151 :Current local users 147, max 151
+Sep 27 16:04:34 *	30603 37325 :Current global users 30603, max 37325
+Sep 27 16:04:34 *	- TUM.DE Message of the Day - 
+Sep 27 16:04:34 *	- 28/12/2015 23:33
+Sep 27 16:04:34 *	- *********************************************************************
+Sep 27 16:04:34 *	-     _____  _   _   _     _
+Sep 27 16:04:34 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:04:34 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:04:34 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:04:34 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:04:34 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:04:34 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:04:34 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:04:34 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:04:34 *	-      dagegen vorgegangen.
+Sep 27 16:04:34 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:04:34 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:04:34 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:04:34 *	-      per K-Line gesperrt.
+Sep 27 16:04:34 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:04:34 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:04:34 *	-      gibt es sowieso nicht.
+Sep 27 16:04:34 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:04:34 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:04:34 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:04:34 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:04:34 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:04:34 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:04:34 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:04:34 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:04:34 *	-   man auch unter:
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-    * http://irc.in.tum.de/
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-   WICHTIGER HINWEIS:
+Sep 27 16:04:34 *	-   ==================
+Sep 27 16:04:34 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:04:34 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:04:34 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:04:34 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:04:34 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:04:34 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:04:34 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:04:34 *	-      113 (auth).
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-  Bei Problemen bitte erst:
+Sep 27 16:04:34 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:04:34 *	-  lesen.
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:04:34 *	- 
+Sep 27 16:04:34 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:04:34 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:04:34 *	-       Channel: !opers:*.de
+Sep 27 16:04:34 *	-                                      mkh, Mr-Spock
+Sep 27 16:04:34 *	-                                      <irc@in.tum.de>
+Sep 27 16:04:34 *	- *********************************************************************
+Sep 27 16:04:34 *	End of MOTD command.
+Sep 27 16:04:34 *	Server is currently in split-mode.
+Sep 27 16:04:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:04:37 *	Disconnected ()
+Sep 27 16:04:47 *	Looking up irc.in.tum.de
+Sep 27 16:04:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:04:47 *	Connected. Now logging in.
+Sep 27 16:04:47 *	Please wait while we process your connection.
+Sep 27 16:06:38 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:06:38 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:06:38 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:06:38 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:06:38 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:06:38 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:06:38 *	276NAAA6C :your unique ID
+Sep 27 16:06:38 *	There are 30576 users and 3 services on 28 servers
+Sep 27 16:06:38 *	68 :operators online
+Sep 27 16:06:38 *	14804 :channels formed
+Sep 27 16:06:38 *	I have 147 users, 0 services and 2 servers
+Sep 27 16:06:38 *	147 151 :Current local users 147, max 151
+Sep 27 16:06:38 *	30576 37325 :Current global users 30576, max 37325
+Sep 27 16:06:38 *	- TUM.DE Message of the Day - 
+Sep 27 16:06:38 *	- 28/12/2015 23:33
+Sep 27 16:06:38 *	- *********************************************************************
+Sep 27 16:06:38 *	-     _____  _   _   _     _
+Sep 27 16:06:38 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:06:38 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:06:38 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:06:38 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:06:38 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:06:38 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:06:38 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:06:38 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:06:38 *	-      dagegen vorgegangen.
+Sep 27 16:06:38 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:06:38 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:06:38 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:06:38 *	-      per K-Line gesperrt.
+Sep 27 16:06:38 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:06:38 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:06:38 *	-      gibt es sowieso nicht.
+Sep 27 16:06:38 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:06:38 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:06:38 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:06:38 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:06:38 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:06:38 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:06:38 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:06:38 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:06:38 *	-   man auch unter:
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-    * http://irc.in.tum.de/
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-   WICHTIGER HINWEIS:
+Sep 27 16:06:38 *	-   ==================
+Sep 27 16:06:38 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:06:38 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:06:38 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:06:38 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:06:38 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:06:38 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:06:38 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:06:38 *	-      113 (auth).
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-  Bei Problemen bitte erst:
+Sep 27 16:06:38 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:06:38 *	-  lesen.
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:06:38 *	- 
+Sep 27 16:06:38 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:06:38 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:06:38 *	-       Channel: !opers:*.de
+Sep 27 16:06:38 *	-                                      mkh, Mr-Spock
+Sep 27 16:06:38 *	-                                      <irc@in.tum.de>
+Sep 27 16:06:38 *	- *********************************************************************
+Sep 27 16:06:38 *	End of MOTD command.
+Sep 27 16:06:38 *	Server is currently in split-mode.
+Sep 27 16:07:07 *	No ping reply for 140 seconds, disconnecting.
+Sep 27 16:07:07 *	Disconnected ()
+Sep 27 16:07:17 *	Looking up irc.in.tum.de
+Sep 27 16:07:17 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:07:17 *	Connected. Now logging in.
+Sep 27 16:07:17 *	Please wait while we process your connection.
+Sep 27 16:09:08 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:09:08 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:09:08 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:09:08 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:09:08 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:09:08 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:09:08 *	276NAAA6D :your unique ID
+Sep 27 16:09:08 *	There are 30578 users and 3 services on 28 servers
+Sep 27 16:09:08 *	68 :operators online
+Sep 27 16:09:08 *	4 :unknown connections
+Sep 27 16:09:08 *	14802 :channels formed
+Sep 27 16:09:08 *	I have 146 users, 0 services and 2 servers
+Sep 27 16:09:08 *	146 151 :Current local users 146, max 151
+Sep 27 16:09:08 *	30578 37325 :Current global users 30578, max 37325
+Sep 27 16:09:08 *	- TUM.DE Message of the Day - 
+Sep 27 16:09:08 *	- 28/12/2015 23:33
+Sep 27 16:09:08 *	- *********************************************************************
+Sep 27 16:09:08 *	-     _____  _   _   _     _
+Sep 27 16:09:08 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:09:08 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:09:08 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:09:08 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:09:08 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:09:08 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:09:08 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:09:08 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:09:08 *	-      dagegen vorgegangen.
+Sep 27 16:09:08 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:09:08 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:09:08 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:09:08 *	-      per K-Line gesperrt.
+Sep 27 16:09:08 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:09:08 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:09:08 *	-      gibt es sowieso nicht.
+Sep 27 16:09:08 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:09:08 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:09:08 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:09:08 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:09:08 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:09:08 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:09:08 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:09:08 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:09:08 *	-   man auch unter:
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-    * http://irc.in.tum.de/
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-   WICHTIGER HINWEIS:
+Sep 27 16:09:08 *	-   ==================
+Sep 27 16:09:08 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:09:08 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:09:08 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:09:08 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:09:08 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:09:08 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:09:08 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:09:08 *	-      113 (auth).
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-  Bei Problemen bitte erst:
+Sep 27 16:09:08 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:09:08 *	-  lesen.
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:09:08 *	- 
+Sep 27 16:09:08 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:09:08 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:09:08 *	-       Channel: !opers:*.de
+Sep 27 16:09:08 *	-                                      mkh, Mr-Spock
+Sep 27 16:09:08 *	-                                      <irc@in.tum.de>
+Sep 27 16:09:08 *	- *********************************************************************
+Sep 27 16:09:08 *	End of MOTD command.
+Sep 27 16:09:08 *	Server is currently in split-mode.
+Sep 27 16:09:37 *	No ping reply for 140 seconds, disconnecting.
+Sep 27 16:09:37 *	Disconnected ()
+Sep 27 16:09:47 *	Looking up irc.in.tum.de
+Sep 27 16:09:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:09:47 *	Connected. Now logging in.
+Sep 27 16:09:47 *	Please wait while we process your connection.
+Sep 27 16:11:32 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:11:32 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:11:32 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:11:32 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:11:32 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:11:32 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:11:32 *	276NAAA6E :your unique ID
+Sep 27 16:11:32 *	There are 30564 users and 3 services on 28 servers
+Sep 27 16:11:32 *	68 :operators online
+Sep 27 16:11:32 *	5 :unknown connections
+Sep 27 16:11:32 *	14804 :channels formed
+Sep 27 16:11:32 *	I have 146 users, 0 services and 2 servers
+Sep 27 16:11:32 *	146 151 :Current local users 146, max 151
+Sep 27 16:11:32 *	30564 37325 :Current global users 30564, max 37325
+Sep 27 16:11:32 *	- TUM.DE Message of the Day - 
+Sep 27 16:11:32 *	- 28/12/2015 23:33
+Sep 27 16:11:32 *	- *********************************************************************
+Sep 27 16:11:32 *	-     _____  _   _   _     _
+Sep 27 16:11:32 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:11:32 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:11:32 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:11:32 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:11:32 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:11:32 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:11:32 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:11:32 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:11:32 *	-      dagegen vorgegangen.
+Sep 27 16:11:32 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:11:32 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:11:32 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:11:32 *	-      per K-Line gesperrt.
+Sep 27 16:11:32 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:11:32 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:11:32 *	-      gibt es sowieso nicht.
+Sep 27 16:11:32 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:11:32 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:11:32 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:11:32 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:11:32 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:11:32 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:11:32 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:11:32 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:11:32 *	-   man auch unter:
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-    * http://irc.in.tum.de/
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-   WICHTIGER HINWEIS:
+Sep 27 16:11:32 *	-   ==================
+Sep 27 16:11:32 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:11:32 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:11:32 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:11:32 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:11:32 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:11:32 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:11:32 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:11:32 *	-      113 (auth).
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-  Bei Problemen bitte erst:
+Sep 27 16:11:32 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:11:32 *	-  lesen.
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:11:32 *	- 
+Sep 27 16:11:32 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:11:32 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:11:32 *	-       Channel: !opers:*.de
+Sep 27 16:11:32 *	-                                      mkh, Mr-Spock
+Sep 27 16:11:32 *	-                                      <irc@in.tum.de>
+Sep 27 16:11:32 *	- *********************************************************************
+Sep 27 16:11:32 *	End of MOTD command.
+Sep 27 16:11:32 *	Server is currently in split-mode.
+Sep 27 16:11:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:11:37 *	Disconnected ()
+Sep 27 16:11:47 *	Looking up irc.in.tum.de
+Sep 27 16:11:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:11:47 *	Connected. Now logging in.
+Sep 27 16:11:47 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Wed Sep 27 16:13:18 2017
+
+**** BEGIN LOGGING AT Wed Sep 27 16:13:18 2017
+
+Sep 27 16:13:18 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:13:18 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:13:18 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:13:18 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:13:18 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:13:18 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:13:18 *	276NAAA6F :your unique ID
+Sep 27 16:13:18 *	There are 30616 users and 3 services on 28 servers
+Sep 27 16:13:18 *	68 :operators online
+Sep 27 16:13:18 *	4 :unknown connections
+Sep 27 16:13:18 *	14808 :channels formed
+Sep 27 16:13:18 *	I have 146 users, 0 services and 2 servers
+Sep 27 16:13:18 *	146 151 :Current local users 146, max 151
+Sep 27 16:13:18 *	30616 37325 :Current global users 30616, max 37325
+Sep 27 16:13:18 *	- TUM.DE Message of the Day - 
+Sep 27 16:13:18 *	- 28/12/2015 23:33
+Sep 27 16:13:18 *	- *********************************************************************
+Sep 27 16:13:18 *	-     _____  _   _   _     _
+Sep 27 16:13:18 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:13:18 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:13:18 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:13:18 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:13:18 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:13:18 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:13:18 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:13:18 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:13:18 *	-      dagegen vorgegangen.
+Sep 27 16:13:18 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:13:18 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:13:18 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:13:18 *	-      per K-Line gesperrt.
+Sep 27 16:13:18 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:13:18 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:13:18 *	-      gibt es sowieso nicht.
+Sep 27 16:13:18 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:13:18 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:13:18 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:13:18 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:13:18 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:13:18 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:13:18 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:13:18 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:13:18 *	-   man auch unter:
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-    * http://irc.in.tum.de/
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-   WICHTIGER HINWEIS:
+Sep 27 16:13:18 *	-   ==================
+Sep 27 16:13:18 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:13:18 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:13:18 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:13:18 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:13:18 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:13:18 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:13:18 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:13:18 *	-      113 (auth).
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-  Bei Problemen bitte erst:
+Sep 27 16:13:18 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:13:18 *	-  lesen.
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:13:18 *	- 
+Sep 27 16:13:18 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:13:18 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:13:18 *	-       Channel: !opers:*.de
+Sep 27 16:13:18 *	-                                      mkh, Mr-Spock
+Sep 27 16:13:18 *	-                                      <irc@in.tum.de>
+Sep 27 16:13:18 *	- *********************************************************************
+Sep 27 16:13:18 *	End of MOTD command.
+Sep 27 16:13:18 *	Server is currently in split-mode.
+Sep 27 16:13:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:13:37 *	Disconnected ()
+Sep 27 16:13:47 *	Looking up irc.in.tum.de
+Sep 27 16:13:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:13:47 *	Connected. Now logging in.
+Sep 27 16:13:47 *	Please wait while we process your connection.
+Sep 27 16:15:23 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:15:23 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:15:23 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:15:23 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:15:23 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:15:23 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:15:23 *	276NAAA6G :your unique ID
+Sep 27 16:15:23 *	There are 30632 users and 3 services on 28 servers
+Sep 27 16:15:23 *	68 :operators online
+Sep 27 16:15:23 *	2 :unknown connections
+Sep 27 16:15:23 *	14810 :channels formed
+Sep 27 16:15:23 *	I have 146 users, 0 services and 2 servers
+Sep 27 16:15:23 *	146 151 :Current local users 146, max 151
+Sep 27 16:15:23 *	30632 37325 :Current global users 30632, max 37325
+Sep 27 16:15:23 *	- TUM.DE Message of the Day - 
+Sep 27 16:15:23 *	- 28/12/2015 23:33
+Sep 27 16:15:23 *	- *********************************************************************
+Sep 27 16:15:23 *	-     _____  _   _   _     _
+Sep 27 16:15:23 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:15:23 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:15:23 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:15:23 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:15:23 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:15:23 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:15:23 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:15:23 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:15:23 *	-      dagegen vorgegangen.
+Sep 27 16:15:23 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:15:23 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:15:23 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:15:23 *	-      per K-Line gesperrt.
+Sep 27 16:15:23 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:15:23 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:15:23 *	-      gibt es sowieso nicht.
+Sep 27 16:15:23 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:15:23 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:15:23 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:15:23 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:15:23 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:15:23 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:15:23 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:15:23 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:15:23 *	-   man auch unter:
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-    * http://irc.in.tum.de/
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-   WICHTIGER HINWEIS:
+Sep 27 16:15:23 *	-   ==================
+Sep 27 16:15:23 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:15:23 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:15:23 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:15:23 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:15:23 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:15:23 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:15:23 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:15:23 *	-      113 (auth).
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-  Bei Problemen bitte erst:
+Sep 27 16:15:23 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:15:23 *	-  lesen.
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:15:23 *	- 
+Sep 27 16:15:23 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:15:23 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:15:23 *	-       Channel: !opers:*.de
+Sep 27 16:15:23 *	-                                      mkh, Mr-Spock
+Sep 27 16:15:23 *	-                                      <irc@in.tum.de>
+Sep 27 16:15:23 *	- *********************************************************************
+Sep 27 16:15:23 *	End of MOTD command.
+Sep 27 16:15:23 *	Server is currently in split-mode.
+Sep 27 16:15:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:15:37 *	Disconnected ()
+Sep 27 16:15:47 *	Looking up irc.in.tum.de
+Sep 27 16:15:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:15:47 *	Connected. Now logging in.
+Sep 27 16:15:47 *	Please wait while we process your connection.
+Sep 27 16:17:28 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:17:28 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:17:28 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:17:28 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:17:28 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:17:28 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:17:28 *	276NAAA6H :your unique ID
+Sep 27 16:17:28 *	There are 30624 users and 3 services on 28 servers
+Sep 27 16:17:28 *	68 :operators online
+Sep 27 16:17:28 *	1 :unknown connections
+Sep 27 16:17:28 *	14809 :channels formed
+Sep 27 16:17:28 *	I have 146 users, 0 services and 2 servers
+Sep 27 16:17:28 *	146 151 :Current local users 146, max 151
+Sep 27 16:17:28 *	30624 37325 :Current global users 30624, max 37325
+Sep 27 16:17:28 *	- TUM.DE Message of the Day - 
+Sep 27 16:17:28 *	- 28/12/2015 23:33
+Sep 27 16:17:28 *	- *********************************************************************
+Sep 27 16:17:28 *	-     _____  _   _   _     _
+Sep 27 16:17:28 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:17:28 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:17:28 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:17:28 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:17:28 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:17:28 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:17:28 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:17:28 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:17:28 *	-      dagegen vorgegangen.
+Sep 27 16:17:28 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:17:28 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:17:28 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:17:28 *	-      per K-Line gesperrt.
+Sep 27 16:17:28 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:17:28 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:17:28 *	-      gibt es sowieso nicht.
+Sep 27 16:17:28 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:17:28 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:17:28 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:17:28 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:17:28 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:17:28 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:17:28 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:17:28 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:17:28 *	-   man auch unter:
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-    * http://irc.in.tum.de/
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-   WICHTIGER HINWEIS:
+Sep 27 16:17:28 *	-   ==================
+Sep 27 16:17:28 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:17:28 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:17:28 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:17:28 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:17:28 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:17:28 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:17:28 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:17:28 *	-      113 (auth).
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-  Bei Problemen bitte erst:
+Sep 27 16:17:28 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:17:28 *	-  lesen.
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:17:28 *	- 
+Sep 27 16:17:28 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:17:28 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:17:28 *	-       Channel: !opers:*.de
+Sep 27 16:17:28 *	-                                      mkh, Mr-Spock
+Sep 27 16:17:28 *	-                                      <irc@in.tum.de>
+Sep 27 16:17:28 *	- *********************************************************************
+Sep 27 16:17:28 *	End of MOTD command.
+Sep 27 16:17:28 *	Server is currently in split-mode.
+Sep 27 16:17:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:17:37 *	Disconnected ()
+Sep 27 16:17:47 *	Looking up irc.in.tum.de
+Sep 27 16:17:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:17:47 *	Connected. Now logging in.
+Sep 27 16:17:47 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Wed Sep 27 16:19:22 2017
+
+**** BEGIN LOGGING AT Wed Sep 27 16:19:22 2017
+
+Sep 27 16:19:22 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:19:22 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:19:22 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:19:22 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:19:22 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:19:22 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:19:22 *	276NAAA6I :your unique ID
+Sep 27 16:19:22 *	There are 30631 users and 3 services on 28 servers
+Sep 27 16:19:22 *	68 :operators online
+Sep 27 16:19:22 *	4 :unknown connections
+Sep 27 16:19:22 *	14813 :channels formed
+Sep 27 16:19:22 *	I have 145 users, 0 services and 2 servers
+Sep 27 16:19:22 *	145 151 :Current local users 145, max 151
+Sep 27 16:19:22 *	30631 37325 :Current global users 30631, max 37325
+Sep 27 16:19:22 *	- TUM.DE Message of the Day - 
+Sep 27 16:19:22 *	- 28/12/2015 23:33
+Sep 27 16:19:22 *	- *********************************************************************
+Sep 27 16:19:22 *	-     _____  _   _   _     _
+Sep 27 16:19:22 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:19:22 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:19:22 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:19:22 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:19:22 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:19:22 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:19:22 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:19:22 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:19:22 *	-      dagegen vorgegangen.
+Sep 27 16:19:22 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:19:22 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:19:22 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:19:22 *	-      per K-Line gesperrt.
+Sep 27 16:19:22 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:19:22 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:19:22 *	-      gibt es sowieso nicht.
+Sep 27 16:19:22 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:19:22 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:19:22 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:19:22 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:19:22 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:19:22 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:19:22 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:19:22 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:19:22 *	-   man auch unter:
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-    * http://irc.in.tum.de/
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-   WICHTIGER HINWEIS:
+Sep 27 16:19:22 *	-   ==================
+Sep 27 16:19:22 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:19:22 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:19:22 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:19:22 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:19:22 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:19:22 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:19:22 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:19:22 *	-      113 (auth).
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-  Bei Problemen bitte erst:
+Sep 27 16:19:22 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:19:22 *	-  lesen.
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:19:22 *	- 
+Sep 27 16:19:22 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:19:22 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:19:22 *	-       Channel: !opers:*.de
+Sep 27 16:19:22 *	-                                      mkh, Mr-Spock
+Sep 27 16:19:22 *	-                                      <irc@in.tum.de>
+Sep 27 16:19:22 *	- *********************************************************************
+Sep 27 16:19:22 *	End of MOTD command.
+Sep 27 16:19:22 *	Server is currently in split-mode.
+Sep 27 16:19:37 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:19:37 *	Disconnected ()
+Sep 27 16:19:47 *	Looking up irc.in.tum.de
+Sep 27 16:19:47 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:19:47 *	Connected. Now logging in.
+Sep 27 16:19:47 *	Please wait while we process your connection.
+Sep 27 16:21:38 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:21:38 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:21:38 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:21:38 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:21:38 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:21:38 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:21:38 *	276NAAA6J :your unique ID
+Sep 27 16:21:38 *	There are 30652 users and 3 services on 28 servers
+Sep 27 16:21:38 *	68 :operators online
+Sep 27 16:21:38 *	14813 :channels formed
+Sep 27 16:21:38 *	I have 145 users, 0 services and 2 servers
+Sep 27 16:21:38 *	145 151 :Current local users 145, max 151
+Sep 27 16:21:38 *	30652 37325 :Current global users 30652, max 37325
+Sep 27 16:21:38 *	- TUM.DE Message of the Day - 
+Sep 27 16:21:38 *	- 28/12/2015 23:33
+Sep 27 16:21:38 *	- *********************************************************************
+Sep 27 16:21:38 *	-     _____  _   _   _     _
+Sep 27 16:21:38 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:21:38 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:21:38 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:21:38 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:21:38 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:21:38 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:21:38 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:21:38 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:21:38 *	-      dagegen vorgegangen.
+Sep 27 16:21:38 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:21:38 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:21:38 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:21:38 *	-      per K-Line gesperrt.
+Sep 27 16:21:38 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:21:38 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:21:38 *	-      gibt es sowieso nicht.
+Sep 27 16:21:38 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:21:38 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:21:38 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:21:38 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:21:38 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:21:38 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:21:38 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:21:38 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:21:38 *	-   man auch unter:
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-    * http://irc.in.tum.de/
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-   WICHTIGER HINWEIS:
+Sep 27 16:21:38 *	-   ==================
+Sep 27 16:21:38 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:21:38 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:21:38 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:21:38 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:21:38 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:21:38 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:21:38 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:21:38 *	-      113 (auth).
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-  Bei Problemen bitte erst:
+Sep 27 16:21:38 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:21:38 *	-  lesen.
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:21:38 *	- 
+Sep 27 16:21:38 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:21:38 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:21:38 *	-       Channel: !opers:*.de
+Sep 27 16:21:38 *	-                                      mkh, Mr-Spock
+Sep 27 16:21:38 *	-                                      <irc@in.tum.de>
+Sep 27 16:21:38 *	- *********************************************************************
+Sep 27 16:21:38 *	End of MOTD command.
+Sep 27 16:21:38 *	Server is currently in split-mode.
+Sep 27 16:22:07 *	No ping reply for 140 seconds, disconnecting.
+Sep 27 16:22:07 *	Disconnected ()
+Sep 27 16:22:17 *	Looking up irc.in.tum.de
+Sep 27 16:22:17 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:22:17 *	Connected. Now logging in.
+Sep 27 16:22:17 *	Please wait while we process your connection.
+Sep 27 16:23:55 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:23:55 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:23:55 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:23:55 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:23:55 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:23:55 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:23:55 *	276NAAA6K :your unique ID
+Sep 27 16:23:55 *	There are 30663 users and 3 services on 28 servers
+Sep 27 16:23:55 *	68 :operators online
+Sep 27 16:23:55 *	3 :unknown connections
+Sep 27 16:23:55 *	14816 :channels formed
+Sep 27 16:23:55 *	I have 144 users, 0 services and 2 servers
+Sep 27 16:23:55 *	144 151 :Current local users 144, max 151
+Sep 27 16:23:55 *	30663 37325 :Current global users 30663, max 37325
+Sep 27 16:23:55 *	- TUM.DE Message of the Day - 
+Sep 27 16:23:55 *	- 28/12/2015 23:33
+Sep 27 16:23:55 *	- *********************************************************************
+Sep 27 16:23:55 *	-     _____  _   _   _     _
+Sep 27 16:23:55 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:23:55 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:23:55 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:23:55 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:23:55 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:23:55 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:23:55 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:23:55 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:23:55 *	-      dagegen vorgegangen.
+Sep 27 16:23:55 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:23:55 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:23:55 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:23:55 *	-      per K-Line gesperrt.
+Sep 27 16:23:55 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:23:55 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:23:55 *	-      gibt es sowieso nicht.
+Sep 27 16:23:55 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:23:55 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:23:55 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:23:55 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:23:55 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:23:55 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:23:55 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:23:55 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:23:55 *	-   man auch unter:
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-    * http://irc.in.tum.de/
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-   WICHTIGER HINWEIS:
+Sep 27 16:23:55 *	-   ==================
+Sep 27 16:23:55 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:23:55 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:23:55 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:23:55 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:23:55 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:23:55 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:23:55 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:23:55 *	-      113 (auth).
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-  Bei Problemen bitte erst:
+Sep 27 16:23:55 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:23:55 *	-  lesen.
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:23:55 *	- 
+Sep 27 16:23:55 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:23:55 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:23:55 *	-       Channel: !opers:*.de
+Sep 27 16:23:55 *	-                                      mkh, Mr-Spock
+Sep 27 16:23:55 *	-                                      <irc@in.tum.de>
+Sep 27 16:23:55 *	- *********************************************************************
+Sep 27 16:23:55 *	End of MOTD command.
+Sep 27 16:23:55 *	Server is currently in split-mode.
+Sep 27 16:24:07 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:24:07 *	Disconnected ()
+Sep 27 16:24:17 *	Looking up irc.in.tum.de
+Sep 27 16:24:17 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:24:17 *	Connected. Now logging in.
+Sep 27 16:24:17 *	Please wait while we process your connection.
+Sep 27 16:25:48 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:25:48 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:25:48 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:25:48 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:25:48 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:25:48 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:25:48 *	276NAAA6L :your unique ID
+Sep 27 16:25:48 *	There are 30653 users and 3 services on 28 servers
+Sep 27 16:25:48 *	68 :operators online
+Sep 27 16:25:48 *	1 :unknown connections
+Sep 27 16:25:48 *	14816 :channels formed
+Sep 27 16:25:48 *	I have 144 users, 0 services and 2 servers
+Sep 27 16:25:48 *	144 151 :Current local users 144, max 151
+Sep 27 16:25:48 *	30653 37325 :Current global users 30653, max 37325
+Sep 27 16:25:48 *	- TUM.DE Message of the Day - 
+Sep 27 16:25:48 *	- 28/12/2015 23:33
+Sep 27 16:25:48 *	- *********************************************************************
+Sep 27 16:25:48 *	-     _____  _   _   _     _
+Sep 27 16:25:48 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:25:48 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:25:48 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:25:48 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:25:48 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:25:48 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:25:48 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:25:48 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:25:48 *	-      dagegen vorgegangen.
+Sep 27 16:25:48 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:25:48 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:25:48 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:25:48 *	-      per K-Line gesperrt.
+Sep 27 16:25:48 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:25:48 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:25:48 *	-      gibt es sowieso nicht.
+Sep 27 16:25:48 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:25:48 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:25:48 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:25:48 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:25:48 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:25:48 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:25:48 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:25:48 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:25:48 *	-   man auch unter:
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-    * http://irc.in.tum.de/
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-   WICHTIGER HINWEIS:
+Sep 27 16:25:48 *	-   ==================
+Sep 27 16:25:48 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:25:48 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:25:48 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:25:48 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:25:48 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:25:48 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:25:48 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:25:48 *	-      113 (auth).
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-  Bei Problemen bitte erst:
+Sep 27 16:25:48 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:25:48 *	-  lesen.
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:25:48 *	- 
+Sep 27 16:25:48 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:25:48 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:25:48 *	-       Channel: !opers:*.de
+Sep 27 16:25:48 *	-                                      mkh, Mr-Spock
+Sep 27 16:25:48 *	-                                      <irc@in.tum.de>
+Sep 27 16:25:48 *	- *********************************************************************
+Sep 27 16:25:48 *	End of MOTD command.
+Sep 27 16:25:48 *	Server is currently in split-mode.
+Sep 27 16:26:07 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:26:07 *	Disconnected ()
+Sep 27 16:26:17 *	Looking up irc.in.tum.de
+Sep 27 16:26:17 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:26:17 *	Connected. Now logging in.
+Sep 27 16:26:17 *	Please wait while we process your connection.
+Sep 27 16:27:48 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 27 16:27:48 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 27 16:27:48 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 27 16:27:48 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 27 16:27:48 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 27 16:27:48 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 27 16:27:48 *	276NAAA6M :your unique ID
+Sep 27 16:27:48 *	There are 30662 users and 3 services on 28 servers
+Sep 27 16:27:48 *	68 :operators online
+Sep 27 16:27:48 *	2 :unknown connections
+Sep 27 16:27:48 *	14818 :channels formed
+Sep 27 16:27:48 *	I have 144 users, 0 services and 2 servers
+Sep 27 16:27:48 *	144 151 :Current local users 144, max 151
+Sep 27 16:27:48 *	30662 37325 :Current global users 30662, max 37325
+Sep 27 16:27:48 *	- TUM.DE Message of the Day - 
+Sep 27 16:27:48 *	- 28/12/2015 23:33
+Sep 27 16:27:48 *	- *********************************************************************
+Sep 27 16:27:48 *	-     _____  _   _   _     _
+Sep 27 16:27:48 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 27 16:27:48 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 27 16:27:48 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-    - Offene Ports: 6660 - 6669
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 27 16:27:48 *	-   REGELN als verbindlich akzeptiert:
+Sep 27 16:27:48 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 27 16:27:48 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 27 16:27:48 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 27 16:27:48 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 27 16:27:48 *	-      dagegen vorgegangen.
+Sep 27 16:27:48 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 27 16:27:48 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 27 16:27:48 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 27 16:27:48 *	-      per K-Line gesperrt.
+Sep 27 16:27:48 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 27 16:27:48 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 27 16:27:48 *	-      gibt es sowieso nicht.
+Sep 27 16:27:48 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 27 16:27:48 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 27 16:27:48 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 27 16:27:48 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 27 16:27:48 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 27 16:27:48 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 27 16:27:48 *	-      oder Vorwarnung vorbehalten.
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 27 16:27:48 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-    * http://irc.fu-berlin.de/
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 27 16:27:48 *	-   man auch unter:
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-    * http://irc.in.tum.de/
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-   WICHTIGER HINWEIS:
+Sep 27 16:27:48 *	-   ==================
+Sep 27 16:27:48 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 27 16:27:48 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 27 16:27:48 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 27 16:27:48 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 27 16:27:48 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 27 16:27:48 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 27 16:27:48 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 27 16:27:48 *	-      113 (auth).
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-  Bei Problemen bitte erst:
+Sep 27 16:27:48 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 27 16:27:48 *	-  lesen.
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 27 16:27:48 *	- 
+Sep 27 16:27:48 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 27 16:27:48 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 27 16:27:48 *	-       Channel: !opers:*.de
+Sep 27 16:27:48 *	-                                      mkh, Mr-Spock
+Sep 27 16:27:48 *	-                                      <irc@in.tum.de>
+Sep 27 16:27:48 *	- *********************************************************************
+Sep 27 16:27:48 *	End of MOTD command.
+Sep 27 16:27:48 *	Server is currently in split-mode.
+Sep 27 16:28:07 *	No ping reply for 110 seconds, disconnecting.
+Sep 27 16:28:07 *	Disconnected ()
+Sep 27 16:28:17 *	Looking up irc.in.tum.de
+Sep 27 16:28:17 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 27 16:28:17 *	Connected. Now logging in.
+Sep 27 16:28:17 *	Please wait while we process your connection.
+Sep 27 16:29:09 Sysinfo plugin unloaded
+Sep 27 16:29:09 Perl interface unloaded
+Sep 27 16:29:09 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Sep 27 16:29:09 2017
+
+**** BEGIN LOGGING AT Thu Sep 28 09:03:33 2017
+
+Sep 28 09:03:34 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 28 09:03:34 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 28 09:03:34 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 28 09:03:34 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 28 09:03:34 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 28 09:03:34 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 28 09:03:34 *	276NAAA78 :your unique ID
+Sep 28 09:03:34 *	There are 32636 users and 3 services on 28 servers
+Sep 28 09:03:34 *	69 :operators online
+Sep 28 09:03:34 *	1 :unknown connections
+Sep 28 09:03:34 *	14688 :channels formed
+Sep 28 09:03:34 *	I have 149 users, 0 services and 2 servers
+Sep 28 09:03:34 *	149 151 :Current local users 149, max 151
+Sep 28 09:03:34 *	32636 37325 :Current global users 32636, max 37325
+Sep 28 09:03:34 *	- TUM.DE Message of the Day - 
+Sep 28 09:03:34 *	- 28/12/2015 23:33
+Sep 28 09:03:34 *	- *********************************************************************
+Sep 28 09:03:34 *	-     _____  _   _   _     _
+Sep 28 09:03:34 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 28 09:03:34 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 28 09:03:34 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-    - Offene Ports: 6660 - 6669
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 28 09:03:34 *	-   REGELN als verbindlich akzeptiert:
+Sep 28 09:03:34 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 28 09:03:34 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 28 09:03:34 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 28 09:03:34 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 28 09:03:34 *	-      dagegen vorgegangen.
+Sep 28 09:03:34 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 28 09:03:34 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 28 09:03:34 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 28 09:03:34 *	-      per K-Line gesperrt.
+Sep 28 09:03:34 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 28 09:03:34 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 28 09:03:34 *	-      gibt es sowieso nicht.
+Sep 28 09:03:34 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 28 09:03:34 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 28 09:03:34 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 28 09:03:34 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 28 09:03:34 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 28 09:03:34 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 28 09:03:34 *	-      oder Vorwarnung vorbehalten.
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 28 09:03:34 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-    * http://irc.fu-berlin.de/
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 28 09:03:34 *	-   man auch unter:
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-    * http://irc.in.tum.de/
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-   WICHTIGER HINWEIS:
+Sep 28 09:03:34 *	-   ==================
+Sep 28 09:03:34 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 28 09:03:34 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 28 09:03:34 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 28 09:03:34 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 28 09:03:34 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 28 09:03:34 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 28 09:03:34 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 28 09:03:34 *	-      113 (auth).
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-  Bei Problemen bitte erst:
+Sep 28 09:03:34 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 28 09:03:34 *	-  lesen.
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 28 09:03:34 *	- 
+Sep 28 09:03:34 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 28 09:03:34 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 28 09:03:34 *	-       Channel: !opers:*.de
+Sep 28 09:03:34 *	-                                      mkh, Mr-Spock
+Sep 28 09:03:34 *	-                                      <irc@in.tum.de>
+Sep 28 09:03:34 *	- *********************************************************************
+Sep 28 09:03:34 *	End of MOTD command.
+Sep 28 09:03:34 *	Server is currently in split-mode.
+Sep 28 09:04:01 *	No ping reply for 121 seconds, disconnecting.
+Sep 28 09:04:01 *	Disconnected ()
+Sep 28 09:04:11 *	Looking up irc.in.tum.de
+Sep 28 09:04:11 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 28 09:04:11 *	Connected. Now logging in.
+Sep 28 09:04:11 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Thu Sep 28 09:05:49 2017
+
+**** BEGIN LOGGING AT Thu Sep 28 09:05:49 2017
+
+Sep 28 09:05:49 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Sep 28 09:05:49 *	Your host is TUM.DE, running version 2.11.2p3
+Sep 28 09:05:49 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Sep 28 09:05:49 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Sep 28 09:05:49 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Sep 28 09:05:49 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Sep 28 09:05:49 *	276NAAA79 :your unique ID
+Sep 28 09:05:49 *	There are 32642 users and 3 services on 28 servers
+Sep 28 09:05:49 *	69 :operators online
+Sep 28 09:05:49 *	2 :unknown connections
+Sep 28 09:05:49 *	14692 :channels formed
+Sep 28 09:05:49 *	I have 149 users, 0 services and 2 servers
+Sep 28 09:05:49 *	149 151 :Current local users 149, max 151
+Sep 28 09:05:49 *	32642 37325 :Current global users 32642, max 37325
+Sep 28 09:05:49 *	- TUM.DE Message of the Day - 
+Sep 28 09:05:49 *	- 28/12/2015 23:33
+Sep 28 09:05:49 *	- *********************************************************************
+Sep 28 09:05:49 *	-     _____  _   _   _     _
+Sep 28 09:05:49 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Sep 28 09:05:49 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Sep 28 09:05:49 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-    - Offene Ports: 6660 - 6669
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Sep 28 09:05:49 *	-   REGELN als verbindlich akzeptiert:
+Sep 28 09:05:49 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Sep 28 09:05:49 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Sep 28 09:05:49 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Sep 28 09:05:49 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Sep 28 09:05:49 *	-      dagegen vorgegangen.
+Sep 28 09:05:49 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Sep 28 09:05:49 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Sep 28 09:05:49 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Sep 28 09:05:49 *	-      per K-Line gesperrt.
+Sep 28 09:05:49 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Sep 28 09:05:49 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Sep 28 09:05:49 *	-      gibt es sowieso nicht.
+Sep 28 09:05:49 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Sep 28 09:05:49 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Sep 28 09:05:49 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Sep 28 09:05:49 *	-      NOTICE, Channelhopping, etc) unerheblich
+Sep 28 09:05:49 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Sep 28 09:05:49 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Sep 28 09:05:49 *	-      oder Vorwarnung vorbehalten.
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Sep 28 09:05:49 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-    * http://irc.fu-berlin.de/
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Sep 28 09:05:49 *	-   man auch unter:
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-    * http://irc.in.tum.de/
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-   WICHTIGER HINWEIS:
+Sep 28 09:05:49 *	-   ==================
+Sep 28 09:05:49 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Sep 28 09:05:49 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Sep 28 09:05:49 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Sep 28 09:05:49 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Sep 28 09:05:49 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Sep 28 09:05:49 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Sep 28 09:05:49 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Sep 28 09:05:49 *	-      113 (auth).
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-  Bei Problemen bitte erst:
+Sep 28 09:05:49 *	-      http://ircnet.irchelp.org/211.de.html
+Sep 28 09:05:49 *	-  lesen.
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Sep 28 09:05:49 *	- 
+Sep 28 09:05:49 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Sep 28 09:05:49 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Sep 28 09:05:49 *	-       Channel: !opers:*.de
+Sep 28 09:05:49 *	-                                      mkh, Mr-Spock
+Sep 28 09:05:49 *	-                                      <irc@in.tum.de>
+Sep 28 09:05:49 *	- *********************************************************************
+Sep 28 09:05:49 *	End of MOTD command.
+Sep 28 09:05:49 *	Server is currently in split-mode.
+Sep 28 09:06:01 *	No ping reply for 110 seconds, disconnecting.
+Sep 28 09:06:01 *	Disconnected ()
+Sep 28 09:06:11 *	Looking up irc.in.tum.de
+Sep 28 09:06:11 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Sep 28 09:06:11 *	Connected. Now logging in.
+Sep 28 09:06:11 *	Please wait while we process your connection.
+Sep 28 09:06:51 Sysinfo plugin unloaded
+Sep 28 09:06:51 Python interface unloaded
+Sep 28 09:06:51 Perl interface unloaded
+Sep 28 09:06:51 FiSHLiM plugin unloaded
+Sep 28 09:06:51 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Sep 28 09:06:51 2017
+
+**** BEGIN LOGGING AT Thu Sep 28 15:59:21 2017
+
+Sep 28 15:59:50 Sysinfo plugin unloaded
+Sep 28 15:59:50 Python interface unloaded
+Sep 28 15:59:50 Perl interface unloaded
+Sep 28 15:59:50 FiSHLiM plugin unloaded
+Sep 28 15:59:50 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Sep 28 15:59:50 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:38:56 2017
+
+Okt 09 09:38:56 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:38:56 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:38:56 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:38:56 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:38:56 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:38:56 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:38:56 *	276NAACDH :your unique ID
+Okt 09 09:38:56 *	There are 28102 users and 4 services on 28 servers
+Okt 09 09:38:56 *	76 :operators online
+Okt 09 09:38:56 *	5 :unknown connections
+Okt 09 09:38:56 *	14631 :channels formed
+Okt 09 09:38:56 *	I have 148 users, 0 services and 1 servers
+Okt 09 09:38:56 *	148 168 :Current local users 148, max 168
+Okt 09 09:38:56 *	28102 37325 :Current global users 28102, max 37325
+Okt 09 09:38:56 *	- TUM.DE Message of the Day - 
+Okt 09 09:38:56 *	- 28/12/2015 23:33
+Okt 09 09:38:56 *	- *********************************************************************
+Okt 09 09:38:56 *	-     _____  _   _   _     _
+Okt 09 09:38:56 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:38:56 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:38:56 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:38:56 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:38:56 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:38:56 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:38:56 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:38:56 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:38:56 *	-      dagegen vorgegangen.
+Okt 09 09:38:56 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:38:56 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:38:56 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:38:56 *	-      per K-Line gesperrt.
+Okt 09 09:38:56 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:38:56 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:38:56 *	-      gibt es sowieso nicht.
+Okt 09 09:38:56 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:38:56 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:38:56 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:38:56 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:38:56 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:38:56 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:38:56 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:38:56 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:38:56 *	-   man auch unter:
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-    * http://irc.in.tum.de/
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-   WICHTIGER HINWEIS:
+Okt 09 09:38:56 *	-   ==================
+Okt 09 09:38:56 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:38:56 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:38:56 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:38:56 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:38:56 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:38:56 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:38:56 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:38:56 *	-      113 (auth).
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-  Bei Problemen bitte erst:
+Okt 09 09:38:56 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:38:56 *	-  lesen.
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:38:56 *	- 
+Okt 09 09:38:56 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:38:56 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:38:56 *	-       Channel: !opers:*.de
+Okt 09 09:38:56 *	-                                      mkh, Mr-Spock
+Okt 09 09:38:56 *	-                                      <irc@in.tum.de>
+Okt 09 09:38:56 *	- *********************************************************************
+Okt 09 09:38:56 *	End of MOTD command.
+Okt 09 09:38:56 *	Server is currently in split-mode.
+Okt 09 09:39:19 *	No ping reply for 120 seconds, disconnecting.
+Okt 09 09:39:19 *	Disconnected ()
+Okt 09 09:39:29 *	Looking up irc.in.tum.de
+Okt 09 09:39:29 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:39:29 *	Connected. Now logging in.
+Okt 09 09:39:29 *	Please wait while we process your connection.
+Okt 09 09:40:55 Sysinfo plugin unloaded
+Okt 09 09:40:55 Python interface unloaded
+Okt 09 09:40:55 Perl interface unloaded
+Okt 09 09:40:55 FiSHLiM plugin unloaded
+Okt 09 09:40:55 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Oct  9 09:40:55 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:42:30 2017
+
+Okt 09 09:42:30 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:42:30 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:42:30 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:42:30 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:42:30 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:42:30 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:42:30 *	276NAACDN :your unique ID
+Okt 09 09:42:30 *	There are 28130 users and 4 services on 28 servers
+Okt 09 09:42:30 *	76 :operators online
+Okt 09 09:42:30 *	12 :unknown connections
+Okt 09 09:42:30 *	14633 :channels formed
+Okt 09 09:42:30 *	I have 149 users, 0 services and 1 servers
+Okt 09 09:42:30 *	149 168 :Current local users 149, max 168
+Okt 09 09:42:30 *	28130 37325 :Current global users 28130, max 37325
+Okt 09 09:42:30 *	- TUM.DE Message of the Day - 
+Okt 09 09:42:30 *	- 28/12/2015 23:33
+Okt 09 09:42:30 *	- *********************************************************************
+Okt 09 09:42:30 *	-     _____  _   _   _     _
+Okt 09 09:42:30 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:42:30 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:42:30 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:42:30 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:42:30 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:42:30 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:42:30 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:42:30 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:42:30 *	-      dagegen vorgegangen.
+Okt 09 09:42:30 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:42:30 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:42:30 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:42:30 *	-      per K-Line gesperrt.
+Okt 09 09:42:30 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:42:30 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:42:30 *	-      gibt es sowieso nicht.
+Okt 09 09:42:30 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:42:30 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:42:30 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:42:30 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:42:30 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:42:30 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:42:30 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:42:30 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:42:30 *	-   man auch unter:
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-    * http://irc.in.tum.de/
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-   WICHTIGER HINWEIS:
+Okt 09 09:42:30 *	-   ==================
+Okt 09 09:42:30 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:42:30 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:42:30 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:42:30 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:42:30 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:42:30 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:42:30 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:42:30 *	-      113 (auth).
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-  Bei Problemen bitte erst:
+Okt 09 09:42:30 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:42:30 *	-  lesen.
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:42:30 *	- 
+Okt 09 09:42:30 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:42:30 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:42:30 *	-       Channel: !opers:*.de
+Okt 09 09:42:30 *	-                                      mkh, Mr-Spock
+Okt 09 09:42:30 *	-                                      <irc@in.tum.de>
+Okt 09 09:42:30 *	- *********************************************************************
+Okt 09 09:42:30 *	End of MOTD command.
+Okt 09 09:42:30 *	Server is currently in split-mode.
+Okt 09 09:42:59 *	No ping reply for 120 seconds, disconnecting.
+Okt 09 09:42:59 *	Disconnected ()
+Okt 09 09:43:09 *	Looking up irc.in.tum.de
+Okt 09 09:43:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:43:09 *	Connected. Now logging in.
+Okt 09 09:43:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:44:42 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:44:42 2017
+
+Okt 09 09:44:42 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:44:42 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:44:42 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:44:42 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:44:42 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:44:42 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:44:42 *	276NAACDR :your unique ID
+Okt 09 09:44:42 *	There are 28142 users and 4 services on 28 servers
+Okt 09 09:44:42 *	76 :operators online
+Okt 09 09:44:42 *	5 :unknown connections
+Okt 09 09:44:42 *	14633 :channels formed
+Okt 09 09:44:42 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:44:42 *	152 168 :Current local users 152, max 168
+Okt 09 09:44:42 *	28142 37325 :Current global users 28142, max 37325
+Okt 09 09:44:42 *	- TUM.DE Message of the Day - 
+Okt 09 09:44:42 *	- 28/12/2015 23:33
+Okt 09 09:44:42 *	- *********************************************************************
+Okt 09 09:44:42 *	-     _____  _   _   _     _
+Okt 09 09:44:42 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:44:42 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:44:42 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:44:42 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:44:42 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:44:42 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:44:42 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:44:42 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:44:42 *	-      dagegen vorgegangen.
+Okt 09 09:44:42 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:44:42 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:44:42 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:44:42 *	-      per K-Line gesperrt.
+Okt 09 09:44:42 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:44:42 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:44:42 *	-      gibt es sowieso nicht.
+Okt 09 09:44:42 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:44:42 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:44:42 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:44:42 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:44:42 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:44:42 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:44:42 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:44:42 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:44:42 *	-   man auch unter:
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-    * http://irc.in.tum.de/
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-   WICHTIGER HINWEIS:
+Okt 09 09:44:42 *	-   ==================
+Okt 09 09:44:42 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:44:42 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:44:42 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:44:42 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:44:42 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:44:42 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:44:42 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:44:42 *	-      113 (auth).
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-  Bei Problemen bitte erst:
+Okt 09 09:44:42 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:44:42 *	-  lesen.
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:44:42 *	- 
+Okt 09 09:44:42 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:44:42 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:44:42 *	-       Channel: !opers:*.de
+Okt 09 09:44:42 *	-                                      mkh, Mr-Spock
+Okt 09 09:44:42 *	-                                      <irc@in.tum.de>
+Okt 09 09:44:42 *	- *********************************************************************
+Okt 09 09:44:42 *	End of MOTD command.
+Okt 09 09:44:42 *	Server is currently in split-mode.
+Okt 09 09:44:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:44:59 *	Disconnected ()
+Okt 09 09:45:09 *	Looking up irc.in.tum.de
+Okt 09 09:45:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:45:09 *	Connected. Now logging in.
+Okt 09 09:45:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:46:43 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:46:43 2017
+
+Okt 09 09:46:43 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:46:43 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:46:43 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:46:43 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:46:43 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:46:43 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:46:43 *	276NAACDS :your unique ID
+Okt 09 09:46:43 *	There are 28138 users and 4 services on 28 servers
+Okt 09 09:46:43 *	76 :operators online
+Okt 09 09:46:43 *	6 :unknown connections
+Okt 09 09:46:43 *	14635 :channels formed
+Okt 09 09:46:43 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:46:43 *	152 168 :Current local users 152, max 168
+Okt 09 09:46:43 *	28138 37325 :Current global users 28138, max 37325
+Okt 09 09:46:43 *	- TUM.DE Message of the Day - 
+Okt 09 09:46:43 *	- 28/12/2015 23:33
+Okt 09 09:46:43 *	- *********************************************************************
+Okt 09 09:46:43 *	-     _____  _   _   _     _
+Okt 09 09:46:43 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:46:43 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:46:43 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:46:43 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:46:43 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:46:43 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:46:43 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:46:43 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:46:43 *	-      dagegen vorgegangen.
+Okt 09 09:46:43 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:46:43 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:46:43 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:46:43 *	-      per K-Line gesperrt.
+Okt 09 09:46:43 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:46:43 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:46:43 *	-      gibt es sowieso nicht.
+Okt 09 09:46:43 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:46:43 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:46:43 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:46:43 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:46:43 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:46:43 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:46:43 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:46:43 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:46:43 *	-   man auch unter:
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-    * http://irc.in.tum.de/
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-   WICHTIGER HINWEIS:
+Okt 09 09:46:43 *	-   ==================
+Okt 09 09:46:43 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:46:43 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:46:43 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:46:43 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:46:43 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:46:43 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:46:43 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:46:43 *	-      113 (auth).
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-  Bei Problemen bitte erst:
+Okt 09 09:46:43 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:46:43 *	-  lesen.
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:46:43 *	- 
+Okt 09 09:46:43 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:46:43 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:46:43 *	-       Channel: !opers:*.de
+Okt 09 09:46:43 *	-                                      mkh, Mr-Spock
+Okt 09 09:46:43 *	-                                      <irc@in.tum.de>
+Okt 09 09:46:43 *	- *********************************************************************
+Okt 09 09:46:43 *	End of MOTD command.
+Okt 09 09:46:43 *	Server is currently in split-mode.
+Okt 09 09:46:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:46:59 *	Disconnected ()
+Okt 09 09:47:09 *	Looking up irc.in.tum.de
+Okt 09 09:47:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:47:09 *	Connected. Now logging in.
+Okt 09 09:47:10 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:48:47 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:48:47 2017
+
+Okt 09 09:48:47 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:48:47 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:48:47 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:48:47 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:48:47 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:48:47 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:48:47 *	276NAACDT :your unique ID
+Okt 09 09:48:47 *	There are 28152 users and 4 services on 28 servers
+Okt 09 09:48:47 *	76 :operators online
+Okt 09 09:48:47 *	5 :unknown connections
+Okt 09 09:48:47 *	14639 :channels formed
+Okt 09 09:48:47 *	I have 151 users, 0 services and 1 servers
+Okt 09 09:48:47 *	151 168 :Current local users 151, max 168
+Okt 09 09:48:47 *	28152 37325 :Current global users 28152, max 37325
+Okt 09 09:48:47 *	- TUM.DE Message of the Day - 
+Okt 09 09:48:47 *	- 28/12/2015 23:33
+Okt 09 09:48:47 *	- *********************************************************************
+Okt 09 09:48:47 *	-     _____  _   _   _     _
+Okt 09 09:48:47 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:48:47 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:48:47 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:48:47 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:48:47 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:48:47 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:48:47 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:48:47 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:48:47 *	-      dagegen vorgegangen.
+Okt 09 09:48:47 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:48:47 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:48:47 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:48:47 *	-      per K-Line gesperrt.
+Okt 09 09:48:47 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:48:47 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:48:47 *	-      gibt es sowieso nicht.
+Okt 09 09:48:47 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:48:47 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:48:47 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:48:47 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:48:47 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:48:47 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:48:47 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:48:47 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:48:47 *	-   man auch unter:
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-    * http://irc.in.tum.de/
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-   WICHTIGER HINWEIS:
+Okt 09 09:48:47 *	-   ==================
+Okt 09 09:48:47 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:48:47 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:48:47 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:48:47 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:48:47 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:48:47 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:48:47 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:48:47 *	-      113 (auth).
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-  Bei Problemen bitte erst:
+Okt 09 09:48:47 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:48:47 *	-  lesen.
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:48:47 *	- 
+Okt 09 09:48:47 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:48:47 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:48:47 *	-       Channel: !opers:*.de
+Okt 09 09:48:47 *	-                                      mkh, Mr-Spock
+Okt 09 09:48:47 *	-                                      <irc@in.tum.de>
+Okt 09 09:48:47 *	- *********************************************************************
+Okt 09 09:48:47 *	End of MOTD command.
+Okt 09 09:48:47 *	Server is currently in split-mode.
+Okt 09 09:48:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:48:59 *	Disconnected ()
+Okt 09 09:49:09 *	Looking up irc.in.tum.de
+Okt 09 09:49:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:49:09 *	Connected. Now logging in.
+Okt 09 09:49:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:50:40 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:50:40 2017
+
+Okt 09 09:50:40 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:50:40 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:50:40 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:50:40 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:50:40 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:50:40 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:50:40 *	276NAACDV :your unique ID
+Okt 09 09:50:40 *	There are 28150 users and 4 services on 28 servers
+Okt 09 09:50:40 *	76 :operators online
+Okt 09 09:50:40 *	4 :unknown connections
+Okt 09 09:50:40 *	14636 :channels formed
+Okt 09 09:50:40 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:50:40 *	152 168 :Current local users 152, max 168
+Okt 09 09:50:40 *	28150 37325 :Current global users 28150, max 37325
+Okt 09 09:50:40 *	- TUM.DE Message of the Day - 
+Okt 09 09:50:40 *	- 28/12/2015 23:33
+Okt 09 09:50:40 *	- *********************************************************************
+Okt 09 09:50:40 *	-     _____  _   _   _     _
+Okt 09 09:50:40 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:50:40 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:50:40 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:50:40 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:50:40 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:50:40 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:50:40 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:50:40 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:50:40 *	-      dagegen vorgegangen.
+Okt 09 09:50:40 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:50:40 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:50:40 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:50:40 *	-      per K-Line gesperrt.
+Okt 09 09:50:40 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:50:40 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:50:40 *	-      gibt es sowieso nicht.
+Okt 09 09:50:40 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:50:40 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:50:40 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:50:40 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:50:40 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:50:40 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:50:40 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:50:40 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:50:40 *	-   man auch unter:
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-    * http://irc.in.tum.de/
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-   WICHTIGER HINWEIS:
+Okt 09 09:50:40 *	-   ==================
+Okt 09 09:50:40 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:50:40 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:50:40 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:50:40 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:50:40 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:50:40 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:50:40 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:50:40 *	-      113 (auth).
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-  Bei Problemen bitte erst:
+Okt 09 09:50:40 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:50:40 *	-  lesen.
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:50:40 *	- 
+Okt 09 09:50:40 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:50:40 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:50:40 *	-       Channel: !opers:*.de
+Okt 09 09:50:40 *	-                                      mkh, Mr-Spock
+Okt 09 09:50:40 *	-                                      <irc@in.tum.de>
+Okt 09 09:50:40 *	- *********************************************************************
+Okt 09 09:50:40 *	End of MOTD command.
+Okt 09 09:50:40 *	Server is currently in split-mode.
+Okt 09 09:50:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:50:59 *	Disconnected ()
+Okt 09 09:51:09 *	Looking up irc.in.tum.de
+Okt 09 09:51:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:51:09 *	Connected. Now logging in.
+Okt 09 09:51:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:52:39 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:52:39 2017
+
+Okt 09 09:52:39 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:52:39 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:52:39 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:52:39 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:52:39 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:52:39 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:52:39 *	276NAACDW :your unique ID
+Okt 09 09:52:39 *	There are 28165 users and 4 services on 28 servers
+Okt 09 09:52:39 *	76 :operators online
+Okt 09 09:52:39 *	6 :unknown connections
+Okt 09 09:52:39 *	14639 :channels formed
+Okt 09 09:52:39 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:52:39 *	152 168 :Current local users 152, max 168
+Okt 09 09:52:39 *	28165 37325 :Current global users 28165, max 37325
+Okt 09 09:52:39 *	- TUM.DE Message of the Day - 
+Okt 09 09:52:39 *	- 28/12/2015 23:33
+Okt 09 09:52:39 *	- *********************************************************************
+Okt 09 09:52:39 *	-     _____  _   _   _     _
+Okt 09 09:52:39 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:52:39 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:52:39 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:52:39 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:52:39 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:52:39 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:52:39 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:52:39 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:52:39 *	-      dagegen vorgegangen.
+Okt 09 09:52:39 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:52:39 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:52:39 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:52:39 *	-      per K-Line gesperrt.
+Okt 09 09:52:39 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:52:39 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:52:39 *	-      gibt es sowieso nicht.
+Okt 09 09:52:39 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:52:39 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:52:39 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:52:39 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:52:39 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:52:39 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:52:39 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:52:39 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:52:39 *	-   man auch unter:
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-    * http://irc.in.tum.de/
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-   WICHTIGER HINWEIS:
+Okt 09 09:52:39 *	-   ==================
+Okt 09 09:52:39 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:52:39 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:52:39 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:52:39 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:52:39 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:52:39 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:52:39 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:52:39 *	-      113 (auth).
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-  Bei Problemen bitte erst:
+Okt 09 09:52:39 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:52:39 *	-  lesen.
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:52:39 *	- 
+Okt 09 09:52:39 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:52:39 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:52:39 *	-       Channel: !opers:*.de
+Okt 09 09:52:39 *	-                                      mkh, Mr-Spock
+Okt 09 09:52:39 *	-                                      <irc@in.tum.de>
+Okt 09 09:52:39 *	- *********************************************************************
+Okt 09 09:52:39 *	End of MOTD command.
+Okt 09 09:52:39 *	Server is currently in split-mode.
+Okt 09 09:52:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:52:59 *	Disconnected ()
+Okt 09 09:53:09 *	Looking up irc.in.tum.de
+Okt 09 09:53:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:53:09 *	Connected. Now logging in.
+Okt 09 09:53:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:54:39 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:54:39 2017
+
+Okt 09 09:54:39 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:54:39 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:54:39 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:54:39 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:54:39 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:54:39 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:54:39 *	276NAACDX :your unique ID
+Okt 09 09:54:39 *	There are 28185 users and 4 services on 28 servers
+Okt 09 09:54:39 *	76 :operators online
+Okt 09 09:54:39 *	8 :unknown connections
+Okt 09 09:54:39 *	14643 :channels formed
+Okt 09 09:54:39 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:54:39 *	152 168 :Current local users 152, max 168
+Okt 09 09:54:39 *	28185 37325 :Current global users 28185, max 37325
+Okt 09 09:54:39 *	- TUM.DE Message of the Day - 
+Okt 09 09:54:39 *	- 28/12/2015 23:33
+Okt 09 09:54:39 *	- *********************************************************************
+Okt 09 09:54:39 *	-     _____  _   _   _     _
+Okt 09 09:54:39 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:54:39 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:54:39 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:54:39 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:54:39 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:54:39 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:54:39 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:54:39 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:54:39 *	-      dagegen vorgegangen.
+Okt 09 09:54:39 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:54:39 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:54:39 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:54:39 *	-      per K-Line gesperrt.
+Okt 09 09:54:39 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:54:39 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:54:39 *	-      gibt es sowieso nicht.
+Okt 09 09:54:39 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:54:39 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:54:39 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:54:39 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:54:39 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:54:39 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:54:39 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:54:39 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:54:39 *	-   man auch unter:
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-    * http://irc.in.tum.de/
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-   WICHTIGER HINWEIS:
+Okt 09 09:54:39 *	-   ==================
+Okt 09 09:54:39 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:54:39 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:54:39 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:54:39 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:54:39 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:54:39 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:54:39 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:54:39 *	-      113 (auth).
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-  Bei Problemen bitte erst:
+Okt 09 09:54:39 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:54:39 *	-  lesen.
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:54:39 *	- 
+Okt 09 09:54:39 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:54:39 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:54:39 *	-       Channel: !opers:*.de
+Okt 09 09:54:39 *	-                                      mkh, Mr-Spock
+Okt 09 09:54:39 *	-                                      <irc@in.tum.de>
+Okt 09 09:54:39 *	- *********************************************************************
+Okt 09 09:54:39 *	End of MOTD command.
+Okt 09 09:54:39 *	Server is currently in split-mode.
+Okt 09 09:54:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:54:59 *	Disconnected ()
+Okt 09 09:55:09 *	Looking up irc.in.tum.de
+Okt 09 09:55:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:55:09 *	Connected. Now logging in.
+Okt 09 09:55:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:56:41 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:56:41 2017
+
+Okt 09 09:56:41 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:56:41 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:56:41 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:56:41 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:56:41 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:56:41 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:56:41 *	276NAACDY :your unique ID
+Okt 09 09:56:41 *	There are 28188 users and 4 services on 28 servers
+Okt 09 09:56:41 *	76 :operators online
+Okt 09 09:56:41 *	11 :unknown connections
+Okt 09 09:56:41 *	14637 :channels formed
+Okt 09 09:56:41 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:56:41 *	152 168 :Current local users 152, max 168
+Okt 09 09:56:41 *	28188 37325 :Current global users 28188, max 37325
+Okt 09 09:56:41 *	- TUM.DE Message of the Day - 
+Okt 09 09:56:41 *	- 28/12/2015 23:33
+Okt 09 09:56:41 *	- *********************************************************************
+Okt 09 09:56:41 *	-     _____  _   _   _     _
+Okt 09 09:56:41 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:56:41 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:56:41 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:56:41 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:56:41 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:56:41 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:56:41 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:56:41 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:56:41 *	-      dagegen vorgegangen.
+Okt 09 09:56:41 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:56:41 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:56:41 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:56:41 *	-      per K-Line gesperrt.
+Okt 09 09:56:41 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:56:41 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:56:41 *	-      gibt es sowieso nicht.
+Okt 09 09:56:41 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:56:41 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:56:41 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:56:41 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:56:41 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:56:41 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:56:41 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:56:41 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:56:41 *	-   man auch unter:
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-    * http://irc.in.tum.de/
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-   WICHTIGER HINWEIS:
+Okt 09 09:56:41 *	-   ==================
+Okt 09 09:56:41 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:56:41 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:56:41 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:56:41 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:56:41 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:56:41 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:56:41 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:56:41 *	-      113 (auth).
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-  Bei Problemen bitte erst:
+Okt 09 09:56:41 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:56:41 *	-  lesen.
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:56:41 *	- 
+Okt 09 09:56:41 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:56:41 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:56:41 *	-       Channel: !opers:*.de
+Okt 09 09:56:41 *	-                                      mkh, Mr-Spock
+Okt 09 09:56:41 *	-                                      <irc@in.tum.de>
+Okt 09 09:56:41 *	- *********************************************************************
+Okt 09 09:56:41 *	End of MOTD command.
+Okt 09 09:56:41 *	Server is currently in split-mode.
+Okt 09 09:56:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:56:59 *	Disconnected ()
+Okt 09 09:57:09 *	Looking up irc.in.tum.de
+Okt 09 09:57:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:57:09 *	Connected. Now logging in.
+Okt 09 09:57:09 *	Please wait while we process your connection.
+**** ENDING LOGGING AT Mon Oct  9 09:58:48 2017
+
+**** BEGIN LOGGING AT Mon Oct  9 09:58:48 2017
+
+Okt 09 09:58:48 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 09:58:48 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 09:58:48 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 09:58:48 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 09:58:48 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 09:58:48 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 09:58:48 *	276NAACDZ :your unique ID
+Okt 09 09:58:48 *	There are 28201 users and 4 services on 28 servers
+Okt 09 09:58:48 *	76 :operators online
+Okt 09 09:58:48 *	1 :unknown connections
+Okt 09 09:58:48 *	14641 :channels formed
+Okt 09 09:58:48 *	I have 152 users, 0 services and 1 servers
+Okt 09 09:58:48 *	152 168 :Current local users 152, max 168
+Okt 09 09:58:48 *	28201 37325 :Current global users 28201, max 37325
+Okt 09 09:58:48 *	- TUM.DE Message of the Day - 
+Okt 09 09:58:48 *	- 28/12/2015 23:33
+Okt 09 09:58:48 *	- *********************************************************************
+Okt 09 09:58:48 *	-     _____  _   _   _     _
+Okt 09 09:58:48 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 09:58:48 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 09:58:48 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-    - Offene Ports: 6660 - 6669
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 09:58:48 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 09:58:48 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 09:58:48 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 09:58:48 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 09:58:48 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 09:58:48 *	-      dagegen vorgegangen.
+Okt 09 09:58:48 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 09:58:48 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 09:58:48 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 09:58:48 *	-      per K-Line gesperrt.
+Okt 09 09:58:48 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 09:58:48 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 09:58:48 *	-      gibt es sowieso nicht.
+Okt 09 09:58:48 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 09:58:48 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 09:58:48 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 09:58:48 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 09:58:48 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 09:58:48 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 09:58:48 *	-      oder Vorwarnung vorbehalten.
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 09:58:48 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-    * http://irc.fu-berlin.de/
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 09:58:48 *	-   man auch unter:
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-    * http://irc.in.tum.de/
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-   WICHTIGER HINWEIS:
+Okt 09 09:58:48 *	-   ==================
+Okt 09 09:58:48 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 09:58:48 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 09:58:48 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 09:58:48 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 09:58:48 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 09:58:48 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 09:58:48 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 09:58:48 *	-      113 (auth).
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-  Bei Problemen bitte erst:
+Okt 09 09:58:48 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 09:58:48 *	-  lesen.
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 09:58:48 *	- 
+Okt 09 09:58:48 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 09:58:48 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 09:58:48 *	-       Channel: !opers:*.de
+Okt 09 09:58:48 *	-                                      mkh, Mr-Spock
+Okt 09 09:58:48 *	-                                      <irc@in.tum.de>
+Okt 09 09:58:48 *	- *********************************************************************
+Okt 09 09:58:48 *	End of MOTD command.
+Okt 09 09:58:48 *	Server is currently in split-mode.
+Okt 09 09:58:59 *	No ping reply for 110 seconds, disconnecting.
+Okt 09 09:58:59 *	Disconnected ()
+Okt 09 09:59:09 *	Looking up irc.in.tum.de
+Okt 09 09:59:09 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 09:59:09 *	Connected. Now logging in.
+Okt 09 09:59:09 *	Please wait while we process your connection.
+**** BEGIN LOGGING AT Mon Oct  9 11:34:39 2017
+
+Okt 09 11:34:39 *	Welcome to the Internet Relay Network puchstei!~sowl@laprbg108.informatik.tu-muenchen.de
+Okt 09 11:34:39 *	Your host is TUM.DE, running version 2.11.2p3
+Okt 09 11:34:39 *	This server was created Fri Sep 2 2016 at 17:52:16 CEST
+Okt 09 11:34:39 *	TUM.DE 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+Okt 09 11:34:39 *	RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+Okt 09 11:34:39 *	PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+Okt 09 11:34:39 *	276NAACEC :your unique ID
+Okt 09 11:34:39 *	There are 28524 users and 4 services on 28 servers
+Okt 09 11:34:39 *	76 :operators online
+Okt 09 11:34:39 *	5 :unknown connections
+Okt 09 11:34:39 *	14670 :channels formed
+Okt 09 11:34:39 *	I have 158 users, 0 services and 1 servers
+Okt 09 11:34:39 *	158 168 :Current local users 158, max 168
+Okt 09 11:34:39 *	28524 37325 :Current global users 28524, max 37325
+Okt 09 11:34:39 *	- TUM.DE Message of the Day - 
+Okt 09 11:34:39 *	- 28/12/2015 23:33
+Okt 09 11:34:39 *	- *********************************************************************
+Okt 09 11:34:39 *	-     _____  _   _   _     _
+Okt 09 11:34:39 *	-    |_   _|| | | | | \   / |      Institut fuer Informatik
+Okt 09 11:34:39 *	-      | |  | |_| | |  \ /  | Technische Universitaet Muenchen (TUM)
+Okt 09 11:34:39 *	-      |_|  |_____| |_| V |_|       Fakultaet fuer Informatik
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-    - Offene Ports: 6660 - 6669
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-   Mit einem Verbindungsaufbau zu diesem Server werden die folgenden
+Okt 09 11:34:39 *	-   REGELN als verbindlich akzeptiert:
+Okt 09 11:34:39 *	-    + Bei missbraeuchlicher Nutzung (clones, warscripts, bots, etc)
+Okt 09 11:34:39 *	-      kann ein sofortiger Bann ohne Angaben von Gruenden erfolgen.
+Okt 09 11:34:39 *	-    + Bots sind nicht erlaubt, solange sich aber niemand durch
+Okt 09 11:34:39 *	-      Bots auf diesem Server beeintraechtigt fuehlt, wird auch nicht
+Okt 09 11:34:39 *	-      dagegen vorgegangen.
+Okt 09 11:34:39 *	-    + Bot-Netze, also Bots die auf irgendeine Weise miteinander
+Okt 09 11:34:39 *	-      koordiniert sind, sind generell NICHT erlaubt. Bei auffaelligen
+Okt 09 11:34:39 *	-      Bot-Netzen wird idR sofort der gesamte Netzbereich (nach RIPE)
+Okt 09 11:34:39 *	-      per K-Line gesperrt.
+Okt 09 11:34:39 *	-    + Gefaelschte replies zu identd/auth Anfragen nach RFC 1413
+Okt 09 11:34:39 *	-      sind unerwuenscht und sinnlos, denn echte Anonymitaet
+Okt 09 11:34:39 *	-      gibt es sowieso nicht.
+Okt 09 11:34:39 *	-    + Es ist nur EIN client pro Benutzer erlaubt.
+Okt 09 11:34:39 *	-    + UCM/UBM (Unsolicited Bulk/Commercial Messages) aka SPAM
+Okt 09 11:34:39 *	-      sind nicht erlaubt. Dabei ist der Uebertragungsweg (PRIVMSG,
+Okt 09 11:34:39 *	-      NOTICE, Channelhopping, etc) unerheblich
+Okt 09 11:34:39 *	-    + Es besteht kein allgemeines Recht auf eine Verbindung,
+Okt 09 11:34:39 *	-      Ausschluss von diesem Server, auch ohne Begruendung
+Okt 09 11:34:39 *	-      oder Vorwarnung vorbehalten.
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-   Weitere Regeln und Nutzungsbedingungen finden sich auf den
+Okt 09 11:34:39 *	-   offiziellen Web-Seiten des deutschen IRCnet auf
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-    * http://irc.fu-berlin.de/
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-   Allgemeine Infos ueber IRC und angemessene Verhaltensweisen findet
+Okt 09 11:34:39 *	-   man auch unter:
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-    * http://irc.in.tum.de/
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-   WICHTIGER HINWEIS:
+Okt 09 11:34:39 *	-   ==================
+Okt 09 11:34:39 *	-      Bei einem Verbindungsaufbau prueft der irc-server den client-
+Okt 09 11:34:39 *	-      rechner auf potentielle Missbrauchsmoeglichkeiten (offenes
+Okt 09 11:34:39 *	-      TCP relay durch SOCKS/WinGate, webproxys mit CONNECT, ..),
+Okt 09 11:34:39 *	-      ausserdem wird eine identd/auth Abfrage nach RFC 1413
+Okt 09 11:34:39 *	-      durchgefuehrt. Manche Sicherheitssoftware koennte diese
+Okt 09 11:34:39 *	-      Checks unnoetigerweise als Angriff/Portscan werten.
+Okt 09 11:34:39 *	-      Gepruefte Ports sind: 1080 (SOCKS), 80, 8080, 3128 (proxy),
+Okt 09 11:34:39 *	-      113 (auth).
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-  irc.in.tum.de faehrt unter IRCnet ircd 2.11.2p3
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-  Bei Problemen bitte erst:
+Okt 09 11:34:39 *	-      http://ircnet.irchelp.org/211.de.html
+Okt 09 11:34:39 *	-  lesen.
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-  Bei Verbindungsproblemen (I-lines) mail <irc@in.tum.de>
+Okt 09 11:34:39 *	- 
+Okt 09 11:34:39 *	-   Offizieller Kontakt der deutschen IRC-Operatoren:
+Okt 09 11:34:39 *	-         Email: <opers@ircd.de> (Nur fuer servertechnische Belange)
+Okt 09 11:34:39 *	-       Channel: !opers:*.de
+Okt 09 11:34:39 *	-                                      mkh, Mr-Spock
+Okt 09 11:34:39 *	-                                      <irc@in.tum.de>
+Okt 09 11:34:39 *	- *********************************************************************
+Okt 09 11:34:39 *	End of MOTD command.
+Okt 09 11:34:39 *	Server is currently in split-mode.
+Okt 09 11:34:47 *	Cannot join &rbg (Requires keyword)
+Okt 09 11:35:03 *	No ping reply for 120 seconds, disconnecting.
+Okt 09 11:35:03 *	Disconnected ()
+Okt 09 11:35:13 *	Looking up irc.in.tum.de
+Okt 09 11:35:13 *	Connecting to ircsrv.informatik.tu-muenchen.de (131.159.0.33:6667)
+Okt 09 11:35:13 *	Connected. Now logging in.
+Okt 09 11:35:13 *	Please wait while we process your connection.
+Okt 09 11:35:14 Sysinfo plugin unloaded
+Okt 09 11:35:14 Python interface unloaded
+Okt 09 11:35:14 Perl interface unloaded
+Okt 09 11:35:14 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Oct  9 11:35:14 2017
+

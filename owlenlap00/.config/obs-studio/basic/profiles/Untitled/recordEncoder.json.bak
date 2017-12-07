@@ -1,0 +1,5 @@
+{
+    "bitrate": 50000,
+    "preset": "ultrafast",
+    "profile": "main"
+}

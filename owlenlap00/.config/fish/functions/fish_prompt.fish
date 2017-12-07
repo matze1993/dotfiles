@@ -1,0 +1,1 @@
+/home/solidowl/.local/share/omf/themes/gentoo/fish_prompt.fish

@@ -1,0 +1,93 @@
+20:58:41.821: Processor: 8 logical cores
+20:58:41.822: Processor: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz
+20:58:41.822: Physical Memory: 7907MB Total
+20:58:41.822: Kernel Version: Linux 4.13.4-1-MANJARO
+20:58:41.822: Distribution: "Manjaro Linux" Unknown
+20:58:41.823: Portable mode: false
+20:58:41.916: OBS 20.0.1-2 (linux)
+20:58:41.916: ---------------------------------
+20:58:41.916: ---------------------------------
+20:58:41.916: audio settings reset:
+20:58:41.916: 	samples per sec: 44100
+20:58:41.916: 	speakers:        2
+20:58:41.923: ---------------------------------
+20:58:41.923: Initializing OpenGL...
+20:58:41.946: OpenGL version: 4.5 (Core Profile) Mesa 17.2.1
+20:58:42.004: ---------------------------------
+20:58:42.004: video settings reset:
+20:58:42.004: 	base resolution:   1920x1080
+20:58:42.004: 	output resolution: 1280x720
+20:58:42.004: 	downscale filter:  Bicubic
+20:58:42.004: 	fps:               30/1
+20:58:42.004: 	format:            NV12
+20:58:42.011: ---------------------------------
+20:58:42.021: No blackmagic support
+20:58:42.064: NVENC supported
+20:58:42.081: VLC found, VLC video source enabled
+20:58:42.081: ---------------------------------
+20:58:42.081:   Loaded Modules:
+20:58:42.081:     vlc-video.so
+20:58:42.081:     text-freetype2.so
+20:58:42.081:     rtmp-services.so
+20:58:42.081:     obs-x264.so
+20:58:42.081:     obs-transitions.so
+20:58:42.081:     obs-outputs.so
+20:58:42.081:     obs-libfdk.so
+20:58:42.081:     obs-filters.so
+20:58:42.081:     obs-ffmpeg.so
+20:58:42.081:     linux-v4l2.so
+20:58:42.081:     linux-pulseaudio.so
+20:58:42.081:     linux-jack.so
+20:58:42.081:     linux-decklink.so
+20:58:42.081:     linux-capture.so
+20:58:42.081:     linux-alsa.so
+20:58:42.081:     image-source.so
+20:58:42.081:     frontend-tools.so
+20:58:42.081: ---------------------------------
+20:58:42.081: ==== Startup complete ===============================================
+20:58:42.081: Service '' not found
+20:58:42.088: No scene file found, creating default scene
+20:58:42.088: All scene data cleared
+20:58:42.088: ------------------------------------------------
+20:58:42.101: pulse-input: Server name: 'pulseaudio 11.1'
+20:58:42.101: pulse-input: An error occurred while getting the source info!
+20:58:42.101: Switched to scene 'Scene'
+20:58:42.101: Failed to glob scene collections
+20:58:56.318: 
+20:58:56.318: ==== Auto-config wizard testing commencing ======
+
+20:59:13.113: ---------------------------------
+20:59:13.113: video settings reset:
+20:59:13.113: 	base resolution:   1920x1080
+20:59:13.113: 	output resolution: 1920x1080
+20:59:13.113: 	downscale filter:  Bicubic
+20:59:13.113: 	fps:               60/1
+20:59:13.113: 	format:            NV12
+20:59:13.125: 
+20:59:13.125: ==== Auto-config wizard testing stopping ========
+
+20:59:15.497: rtmp-common.c: [initialize_output] Could not find service ''
+20:59:15.498: rtmp-common.c: [initialize_output] Could not find service ''
+20:59:15.499: rtmp-common.c: [initialize_output] Could not find service ''
+20:59:15.500: rtmp-common.c: [initialize_output] Could not find service ''
+20:59:15.514: rtmp-common.c: [initialize_output] Could not find service ''
+20:59:18.336: rtmp-common.c: [initialize_output] Could not find service ''
+20:59:21.580: rtmp-common.c: [initialize_output] Could not find service ''
+21:02:03.365: Settings changed (outputs)
+21:02:03.365: ------------------------------------------------
+21:02:04.982: rtmp-common.c: [initialize_output] Could not find service ''
+21:02:18.470: rtmp-common.c: [initialize_output] Could not find service ''
+21:03:06.126: ---------------------------------
+21:03:06.126: video settings reset:
+21:03:06.126: 	base resolution:   1920x1080
+21:03:06.126: 	output resolution: 1920x1080
+21:03:06.126: 	downscale filter:  Bicubic
+21:03:06.126: 	fps:               60/1
+21:03:06.126: 	format:            RGBA
+21:03:06.126: GPU conversion not available for format: 6
+21:03:06.134: Settings changed (advanced)
+21:03:06.134: ------------------------------------------------
+21:03:08.091: rtmp-common.c: [initialize_output] Could not find service ''
+21:03:18.349: Settings changed (general)
+21:03:18.349: ------------------------------------------------
+21:03:37.810: rtmp-common.c: [initialize_output] Could not find service ''

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="News" text="News" description="News" type="folder" id="odqgjrp" sortColumn="time" collapsed="true">
+      <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" id="mcabeyu" sortColumn="time" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" updateInterval="-1" collapsed="true"/>
+      <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" id="pgjodok" sortColumn="time" xmlUrl="http://slashdot.org/slashdot.rss" htmlUrl="https://slashdot.org/" updateInterval="-1" collapsed="true"/>
+      <outline title="BBC" text="BBC" description="BBC" type="rss" id="rhddmnh" sortColumn="time" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="http://www.bbc.co.uk/news/" updateInterval="-1" collapsed="true"/>
+      <outline title="Science" text="Science" description="Science" type="rss" id="ttuigiy" sortColumn="time" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss" htmlUrl="https://www.sciencenews.org/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Arbeit" text="Arbeit" description="Arbeit" type="folder" id="eiomoqk" sortColumn="time" collapsed="true">
+      <outline title="RBG Q&amp;A Forum - RSS feed" text="RBG Q&amp;A Forum - RSS feed" description="RBG Q&amp;A Forum - RSS feed" type="rss" id="ssuxvby" sortColumn="time" xmlUrl="https://kb.in.tum.de/feeds/rss/" htmlUrl="https://kb.in.tum.de/questions/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Comics" text="Comics" description="Comics" type="folder" id="wixpyuu" sortColumn="time" collapsed="true">
+      <outline title="xkcd" text="xkcd" description="xkcd" type="atom" id="pxkcklh" sortColumn="time" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Unread" text="Unread" description="Unread" type="vfolder" id="eraatxt" sortColumn="time" matchType="any" collapsed="true">
+      <outline type="rule" text="Read status" rule="unread" value="" additive="true"/>
+    </outline>
+    <outline title="Important" text="Important" description="Important" type="vfolder" id="vgbhaka" sortColumn="time" matchType="any" collapsed="true">
+      <outline type="rule" text="Flag status" rule="flagged" value="" additive="true"/>
+    </outline>
+  </body>
+</opml>

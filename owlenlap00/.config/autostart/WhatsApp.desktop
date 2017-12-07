@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=WhatsApp
+Comment=WhatsAppstartup script
+Exec=/opt/Whatsapp/WhatsApp
+StartupNotify=false
+Terminal=false

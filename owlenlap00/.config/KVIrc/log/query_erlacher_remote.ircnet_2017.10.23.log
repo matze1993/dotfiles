@@ -1,0 +1,49 @@
+0 ### Log session started at Mon Oct 23 13:43:06 2017 ###
+92 [13:43:06] Common channels for !nerlacher_remote [~lerlacher@!hleda.lerlacher.de]: @!c&rbg
+24 [13:43:24] <1,11!ncpuchstei> *   Trying 131.159.254.8...
+24 [13:43:24] <1,11!ncpuchstei> * TCP_NODELAY set
+24 [13:43:24] <1,11!ncpuchstei> * Connected to pwndwords.in.tum.de (131.159.254.8) port 443 (#0)
+24 [13:43:24] <1,11!ncpuchstei> * ALPN, offering h2
+24 [13:43:24] <1,11!ncpuchstei> * ALPN, offering http/1.1
+24 [13:43:24] <1,11!ncpuchstei> * successfully set certificate verify locations:
+24 [13:43:24] <1,11!ncpuchstei> *   CAfile: /etc/ssl/certs/ca-certificates.crt
+24 [13:43:24] <1,11!ncpuchstei>   CApath: none
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (OUT), TLS handshake, Client hello (1):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (IN), TLS handshake, Server hello (2):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (IN), TLS handshake, Certificate (11):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (IN), TLS handshake, Server finished (14):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (OUT), TLS change cipher, Client hello (1):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (OUT), TLS handshake, Finished (20):
+24 [13:43:24] <1,11!ncpuchstei> * TLSv1.2 (IN), TLS handshake, Finished (20):
+24 [13:43:24] <1,11!ncpuchstei> * SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+24 [13:43:24] <1,11!ncpuchstei> * ALPN, server accepted to use http/1.1
+24 [13:43:24] <1,11!ncpuchstei> * Server certificate:
+24 [13:43:24] <1,11!ncpuchstei> *  subject: C=DE; ST=Bayern; L=Muenchen; O=Technische Universitaet Muenchen; OU=Fakultaet fuer Informatik; CN=pwndwords.in.tum.de
+24 [13:43:24] <1,11!ncpuchstei> *  start date: Oct 23 03:31:11 2017 GMT
+24 [13:43:24] <1,11!ncpuchstei> *  expire date: Jun  1 02:00:00 2019 GMT
+24 [13:43:24] <1,11!ncpuchstei> *  subjectAltName: host "pwndwords.in.tum.de" matched cert's "pwndwords.in.tum.de"
+24 [13:43:24] <1,11!ncpuchstei> *  issuer: C=DE; O=Verein zur Foerderung eines Deutschen Forschungsnetzes e. V.; OU=DFN-PKI; CN=DFN-Verein Global Issuing CA
+24 [13:43:24] <1,11!ncpuchstei> *  SSL certificate verify ok.
+24 [13:43:24] <1,11!ncpuchstei> > GET /passwords/?password=%2F%2F HTTP/1.1
+24 [13:43:24] <1,11!ncpuchstei> > Host: pwndwords.in.tum.de
+24 [13:43:24] <1,11!ncpuchstei> > User-Agent: curl/7.56.0
+24 [13:43:24] <1,11!ncpuchstei> > Accept: */*
+24 [13:43:24] <1,11!ncpuchstei> >
+24 [13:43:24] <1,11!ncpuchstei> < HTTP/1.1 200 OK
+24 [13:43:24] <1,11!ncpuchstei> < Date: Mon, 23 Oct 2017 11:42:44 GMT
+24 [13:43:24] <1,11!ncpuchstei> < Server: Apache/2.4.18 (Ubuntu)
+24 [13:43:24] <1,11!ncpuchstei> < Access-Control-Allow-Origin: *
+24 [13:43:24] <1,11!ncpuchstei> < Content-Length: 6
+24 [13:43:24] <1,11!ncpuchstei> < Content-Type: text/plain
+24 [13:43:24] <1,11!ncpuchstei> <
+24 [13:43:24] <1,11!ncpuchstei> * Connection !c#0 to host pwndwords.in.tum.de left intact
+24 [13:43:24] <1,11!ncpuchstei> Found!0.02user 0.00system 0:00.03elapsed 62%CPU (0avgtext+0avgdata 10848maxresident)k
+24 [13:43:24] <1,11!ncpuchstei> 0inputs+0outputs (0major+714minor)pagefaults 0swaps
+26 [13:46:43] <10,1!ncerlacher_remote> jo, passt, oder?
+24 [13:48:52] <1,11!ncpuchstei> jo sieht gut aus!
+26 [13:54:52] <10,1!ncerlacher_remote> also die api soll nur http status 200 oder 404 zurückgeben
+26 [13:55:08] <10,1!ncerlacher_remote> im prinzip identisch zu https://haveibeenpwned.com/API/v2#PwnedPasswords
+24 [13:55:54] <1,11!ncpuchstei> jo bisher hab ich nur 404 und 200 bekommen bei dem was ich getestet hab
+26 [14:00:05] <10,1!ncerlacher_remote> gut gut :D

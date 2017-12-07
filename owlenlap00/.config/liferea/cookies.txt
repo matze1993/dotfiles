@@ -1,0 +1,7 @@
+#HttpOnly_.lzone.de	TRUE	/	FALSE	1541514627	__cfduid	dfa3d3e900ac18f2debc8a05496e926601509978627
+.bbc.co.uk	TRUE	/	FALSE	1541514628	BBC-UID	c57ae0d007125054722cb8fb71291be6e6dd4bd58010e570d5262896012ed4550Akamai%20Edge
+#HttpOnly_.kexp.org	TRUE	/	FALSE	1541514629	__cfduid	d089e3ebd90091253a044ea5db44a6d451509978629
+#HttpOnly_.freemusicarchive.org	TRUE	/	FALSE	1541514633	__cfduid	d83b2ba6b17009f18af6a4ad79e2669f11509978633
+#HttpOnly_kb.in.tum.de	FALSE	/	FALSE	1510136322	sessionid	m86f2c79lp13or5lzvdpdazax2heqlw4
+kb.in.tum.de	FALSE	/	FALSE	1541499560	_csrf	MVU95d7zuNdsD9sSAq7ECi8P7zonogCp
+#HttpOnly_escapepod.org	FALSE	/	FALSE	1510051767	wfvt_2747047339	5a0188ac664c0

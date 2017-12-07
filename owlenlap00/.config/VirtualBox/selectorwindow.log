@@ -1,0 +1,24 @@
+VirtualBox GUI VM Selector Window 5.2.0 r118415 linux.amd64 (Oct 18 2017 21:39:48) release log
+00:00:00.487563 Log opened 2017-11-14T08:02:42.456859000Z
+00:00:00.487564 Build Type: release
+00:00:00.487566 OS Product: Linux
+00:00:00.487567 OS Release: 4.13.12-1-MANJARO
+00:00:00.487567 OS Version: #1 SMP PREEMPT Wed Nov 8 10:52:53 UTC 2017
+00:00:00.487586 DMI Product Name: GE60 2PE
+00:00:00.487592 DMI Product Version: REV:1.0
+00:00:00.487633 Host RAM: 7907MB (7.7GB) total, 5400MB (5.2GB) available
+00:00:00.487637 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.487637 Process ID: 8959
+00:00:00.487638 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.487661 Qt version: 5.9.2
+00:00:00.544851 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.735194 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.742239 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.750755 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 957x536 x 75x50
+00:00:00.750992 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 2 work area is actually resized to: 957x536 x 75x50
+00:00:00.770098 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:00.772650 refreshCertificates/#3: Found 1/159 SSL certs we/you trust (previously 1/159).
+00:00:05.409193 GUI: UIInvisibleWindow::sltFallback: Move event haven't came. Screen: 0, work area: 957x539 x 75x50
+00:00:05.409220 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 957x539 x 75x50
+00:04:09.272880 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:52:12.435060 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,420 @@
+ATTENTION: default value of option vblank_mode overridden by environment.
+ERROR: ld.so: object '/home/solidowl/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/solidowl/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 255710
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198054709968 [API loaded no]
+ERROR: ld.so: object '/home/solidowl/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/solidowl/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/solidowl/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/solidowl/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ATTENTION: default value of option vblank_mode overridden by environment.
+Loading Mono
+Mono location: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64
+Steamworks_RegisterMonoInterface()
+Successfully Hooked RenderAPI_OpenGLCoreES (17) [Message]
+Loading Steamworks
+DLC status: 64
+dlc 'Cities: Skylines - Preorder Pack' id: '340160' available: 'false'
+dlc 'Cities: Skylines - Deluxe Pack' id: '346791' available: 'false'
+dlc 'Cities: Skylines - Soundtrack' id: '352510' available: 'false'
+dlc 'Cities: Skylines - The Architecture Artbook' id: '352511' available: 'false'
+dlc 'Cities: Skylines - The Monuments Booklet' id: '352512' available: 'false'
+dlc 'Cities: Skylines - Post Cards' id: '355600' available: 'false'
+dlc 'Cities: Skylines - Korean language' id: '365040' available: 'false'
+dlc 'Cities: Skylines - After Dark' id: '369150' available: 'true'
+dlc 'Cities: Skylines - Snowfall' id: '420610' available: 'true'
+dlc 'Cities: Skylines - Match Day' id: '456200' available: 'true'
+dlc 'Cities: Skylines - Content Creator Pack: Art Deco' id: '515190' available: 'true'
+dlc 'Cities: Skylines - Natural Disasters' id: '515191' available: 'true'
+dlc 'Cities: Skylines - Juventus F.C Club Pack' id: '525940' available: 'false'
+dlc 'Cities: Skylines - Chelsea F.C Club Pack' id: '526610' available: 'false'
+dlc 'Cities: Skylines - FC Barcelona Club Pack' id: '526611' available: 'false'
+dlc 'Cities: Skylines - Paris Saint-Germain F.C.' id: '526612' available: 'false'
+dlc 'Cities: Skylines - Stadiums: European Club Pack' id: '536610' available: 'false'
+dlc 'Cities: Skylines - Content Creator Pack: High-Tech Buildings' id: '547500' available: 'true'
+dlc 'Cities: Skylines - Relaxation Station' id: '547501' available: 'true'
+dlc 'Cities: Skylines - Mass Transit' id: '547502' available: 'true'
+dlc 'Cities: Skylines - Pearls From the East' id: '563850' available: 'true'
+dlc 'Cities: Skylines - Green Cities' id: '614580' available: 'true'
+Steam ID: 255710 [Message]
+Timed out waiting for game mapping!
+OnUserStatsReceived()
+Received stats and achievements
+OnUserStatsStored()
+Stored successfully
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+QueryUGCContent
+Unloading Steamworks
+_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buf
+fers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_
+formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug
+ GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_
+shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_pr
+ogram2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 66393784
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ColossalManaged.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ColossalManaged.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICities.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICities.dll into Unity Child Domain
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/PopsApiWrapper.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/PopsApiWrapper.dll into Unity Child Domain
+- Completed reload, in  0.343 seconds
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.dll (this message is harmless)
+New context 0x502cee8 created with attributes:
+Default vsync count 1
+requesting resize 1920 x 1200
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 4.444000 ms
+Game mode
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.250000 ms
+Machine ID: 6cc14b303dee4a92a8533195f91ae111
+Model: PC
+OS: Linux 4.13 ManjaroLinux 17.0.5 64bit
+Language: English
+CPU: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz (8 core(s))
+System Memory: 7907
+Gfx Device: GeForce GTX 860M/PCIe/SSE2
+Gfx Version: OpenGL 4.5.0 NVIDIA 384.90
+Gfx Memory: 2048
+Gfx Shader Model: 50
+Game Version: 1.9.0-f5-steam-linux
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+API: Steam Type: Steam
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities.x64
+Arguments: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities.x64
+  [CommandLine - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Mono.Security.dll (this message is harmless)
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.Configuration.dll (this message is harmless)
+Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.Xml.dll (this message is harmless)
+Adding package 'System' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CO.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cliffside Bay' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Grand River.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter3Final' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'By The Dam' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Floodland.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Green Power.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [/home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Trains.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cita1' [cloud:Cita1.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City2' [cloud:City2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/colossal.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Telemetry enabled  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/HardMode/HardMode.dll (this message is harmless)
+Non platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedMoney/UnlimitedMoney.dll (this message is harmless)
+Non platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedOilAndOre/UnlimitedOilAndOre.dll (this message is harmless)
+Non platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedSoil/UnlimitedSoil.dll (this message is harmless)
+Non platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlockAll/UnlockAll.dll (this message is harmless)
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/HardMode/HardMode.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x5d4ee40 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d4ee40.so
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedMoney/UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x5d55240 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d55240.so
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedOilAndOre/UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x5d5cf80 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d5cf80.so
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedSoil/UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x5d5ecd0 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d5ecd0.so
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlockAll/UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x5d60e50 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d60e50.so
+Assembly UnlockAll3, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2234.
+Total: 24.948002 ms (FindLiveObjects: 1.045000 ms CreateObjectMapping: 0.815000 ms MarkObjects: 23.045000 ms  DeleteObjects: 0.042000 ms)
+
+Changing real window size to 1920 x 1200
+Desktop is 1920 x 1080 @ 60 Hz
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.103000 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 48.146999 ms (FindLiveObjects: 0.280000 ms CreateObjectMapping: 0.132000 ms MarkObjects: 47.587997 ms  DeleteObjects: 0.147000 ms)
+
+PopsApi: Shutdown complete
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Waiting for simulation to quit...  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/gameSettings.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7f37bfffd700 -> priority: 1 
+  Thread -> id: 7f37bf7fc700 -> priority: 1 
+  Thread -> id: 7f37beffb700 -> priority: 1 
+  Thread -> id: 7f37be7fa700 -> priority: 1 
+GameSettings Monitor Exiting...  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings terminated  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation terminated  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

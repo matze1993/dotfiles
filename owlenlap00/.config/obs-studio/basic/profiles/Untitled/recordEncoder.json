@@ -1,0 +1,6 @@
+{
+    "bitrate": 50000,
+    "preset": "ultrafast",
+    "profile": "main",
+    "rate_control": "CBR"
+}
