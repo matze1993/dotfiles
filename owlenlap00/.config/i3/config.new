@@ -28,9 +28,9 @@ floating_modifier $mod
 focus_follows_mouse no
 
 #autostart
-exec --no-startup-id volumeicon
+#exec --no-startup-id volumeicon
 exec --no-startup-id pulseaudio
-exec --no-startup-id pa-applet
+#exec --no-startup-id pa-applet
 
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id nitrogen --restore; sleep 1; compton -b
@@ -165,6 +165,7 @@ for_window [class="(?i)virtualbox"] floating enable border normal
 for_window [class="Xfburn"] floating enable
 for_window [class="Firefox Developer Editior"] border none
 for_window [class="Firefox"] border none
+for_window [class="Thunderbird"] border none
 
 #assign steam windows floating and correct ws
 assign [class='^Steam$'] $ws7
@@ -225,6 +226,9 @@ bindsym $mod+Shift+l move right
 
 bindsym $mod+Ctrl+h workspace prev
 bindsym $mod+Ctrl+l workspace next
+
+bindsym $mod+Ctrl+Shift+h move workspace to output left
+bindsym $mod+Ctrl+Shift+l move workspace to output right
 
 #toggle fullscreen
 bindsym $mod+i fullscreen toggle
@@ -296,6 +300,7 @@ bindsym $mod+Escape mode "$mode_system"
 bindsym $mod+r mode "resize"
 bindsym $mod+b mode "borders"
 bindsym $mod+a mode "$applaunch"
+bindsym $mod+Shift+g mode "$mode_gaps"
 
 #color scheme
 # class                 border  bground text    indicator child_border
@@ -345,7 +350,7 @@ gaps outer 5
 # gaps outer all plus 5
 
 # Smart gaps (gaps used if only more than one container on the workspace)
-# smart_gaps on
+smart_gaps on
 
 # Smart borders (draw borders around container only if it is not the only container on this workspace) 
 # on|no_gaps (on=always activate and no_gaps=only activate if the gap size to the edge of the screen is 0)
@@ -355,7 +360,6 @@ gaps outer 5
 set $mode_gaps Gaps: (o) outer, (i) inner
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
 set $mode_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)
-bindsym $mod+Shift+g mode "$mode_gaps"
 
 mode "$mode_gaps" {
         bindsym o      mode "$mode_gaps_outer"

@@ -1,4 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/solidowl/.config'
-let g:netrw_dirhist_2='/home/solidowl/.config/i3'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/solidowl/.bin'

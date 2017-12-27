@@ -149,7 +149,7 @@ label-disconnected =   %ifname% disconnected
 format-connected = <label-connected>
 format-connected-underline = ${colors.green}
 format-disconnected = <label-disconnected>
-format-disconnected-underline = ${self.format-connected-underline}
+format-disconnected-underline = ${colors.red}
 
 [module/eth]
 type = internal/network

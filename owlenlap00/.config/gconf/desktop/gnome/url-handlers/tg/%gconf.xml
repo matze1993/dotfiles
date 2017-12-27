@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="enabled" mtime="1506587924" type="bool" value="true"/>
-	<entry name="needs_terminal" mtime="1506587924" type="bool" value="false"/>
-	<entry name="command" mtime="1506587924" type="string">
+	<entry name="enabled" mtime="1513239416" type="bool" value="true"/>
+	<entry name="needs_terminal" mtime="1513239416" type="bool" value="false"/>
+	<entry name="command" mtime="1513239416" type="string">
 		<stringvalue>/opt/Telegram/Telegram -- %s</stringvalue>
 	</entry>
 </gconf>
