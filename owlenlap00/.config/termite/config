@@ -3,7 +3,7 @@
 font            	=       InconsolataGo Nerd Font 11
 allow_bold      	=       true
 cursor_blink    	=       on
-browser         	=       firefox-developer
+browser         	=       firefox-developer-edition
 audible_bell    	=       true
 scrollback_lines	=	10000
 
@@ -13,28 +13,48 @@ scrollback_lines	=	10000
 # Base16 OceanicNext
 # Scheme: https://github.com/voronianski/oceanic-next-color-scheme
 
-foreground      = #C0C5CE
-foreground_bold = #C0C5CE
-cursor          = #C0C5CE
-background      = #1B2B34
+foreground      = color0
+foreground_bold = color1
+cursor          = color2
+background      = color3
 
 # 16 color space
-color0  = #1B2B34
-color1  = #EC5f67
-color2  = #99C794
-color3  = #FAC863
-color4  = #6699CC
-color5  = #C594C5
-color6  = #5FB3B3
-color7  = #C0C5CE
-color8  = #65737E
-color9  = #EC5f67
-color10 = #99C794
-color11 = #FAC863
-color12 = #6699CC
-color13 = #C594C5
-color14 = #5FB3B3
-color15 = #D8DEE9
+#color0  = #1B2B34
+#color1  = #EC5f67
+#color2  = #99C794
+#color3  = #FAC863
+#color4  = #6699CC
+#color5  = #C594C5
+#color6  = #5FB3B3
+#color7  = #C0C5CE
+#color8  = #65737E
+#color9  = #EC5f67
+#color10 = #99C794
+#color11 = #FAC863
+#color12 = #6699CC
+#color13 = #C594C5
+#color14 = #5FB3B3
+#color15 = #D8DEE9
+
+[colors]
+
+color0 = #1d2327
+color1 = #3a454f
+color2 = #445567
+color3 = #03060b
+color4 = #273341
+color5 = #597897
+color6 = #4c6581
+color7 = #899eb1
+color8 = #6d89ae
+color9 = #92b1d7
+color10 = #aebbcb
+color11 = #1d2327
+color12 = #3a454f
+color13 = #445567
+color14 = #03060b
+color15 = #2c343d
+
 
 # 256 color space
 color16 = #F99157
@@ -42,6 +62,6 @@ color17 = #AB7967
 color18 = #343D46
 color19 = #4F5B66
 color20 = #A7ADBA
-color21 = #CDD3DE[colors]
+color21 = #CDD3DE
 
 

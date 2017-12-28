@@ -38,8 +38,6 @@ dlc 'Cities: Skylines - Pearls From the East' id: '563850' available: 'true'
 dlc 'Cities: Skylines - Green Cities' id: '614580' available: 'true'
 Steam ID: 255710 [Message]
 Timed out waiting for game mapping!
-OnUserStatsReceived()
-Received stats and achievements
 OnUserStatsStored()
 Stored successfully
 PNG
@@ -56,25 +54,209 @@ PNG
 PNG
 PNG
 QueryUGCContent
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+OnSteamUGCQueryCompleted
+PNG
+PNG
+PNG
+PNG
+PNG
+OnUserStatsReceived()
+Received stats and achievements
+Achievement image idx 0 Pioneer now loading
+Achievement image idx 293 Decorator now loading
+Achievement image idx 294 Terraformer now loading
+Achievement image idx 287 WellInformed now loading
+Achievement image idx 0 CityPlanner now loading
+Achievement image idx 0 Lawmaker now loading
+Achievement image idx 0 PowerAtYourFingertips now loading
+Achievement image idx 290 HeavenlyCity now loading
+Achievement image idx 0 Medic now loading
+Achievement image idx 311 AHugeHadron now loading
+Achievement image idx 298 BeamMeUp now loading
+Achievement image idx 319 NewEden now loading
+Achievement image idx 313 ShortFuse now loading
+Achievement image idx 312 IWantItAll now loading
+Achievement image idx 297 Metropolis now loading
+Achievement image idx 0 Distroy now loading
+Achievement image idx 289 CityInMotion now loading
+Achievement image idx 310 CityInMotion2 now loading
+Achievement image idx 284 ClimbingTheSocialLadder now loading
+Achievement image idx 0 UnpopularMayor now loading
+Achievement image idx 0 RollingInDough now loading
+Achievement image idx 305 FreneticPlayer now loading
+Achievement image idx 0 HappyTown now loading
+Achievement image idx 0 ToughCity now loading
+Achievement image idx 286 FireWatch now loading
+Achievement image idx 291 TheSafestTown now loading
+Achievement image idx 295 ProfessionalDumper now loading
+Achievement image idx 296 EarthlovingCity now loading
+Achievement image idx 303 HigherEducation now loading
+Achievement image idx 288 SIMulatedCity now loading
+Achievement image idx 285 SafeCity now loading
+Achievement image idx 0 PowerToThePeople now loading
+Achievement image idx 0 MakeThemPay now loading
+Achievement image idx 309 LeisureSuites now loading
+Achievement image idx 308 PlayingWithTheBoys now loading
+Achievement image idx 0 PrisonBreak now loading
+Achievement image idx 0 1001Nights now loading
+Achievement image idx 0 DoesMyBumLookBigInThis now loading
+Achievement image idx 0 SingingInThe now loading
+Achievement image idx 0 FoggyWeather now loading
+Achievement image idx 0 Brrr now loading
+Achievement image idx 304 GetYourSnowshoesReady now loading
+Achievement image idx 306 HeresATram now loading
+Achievement image idx 0 ILoveTrams now loading
+Achievement image idx 300 AreTheyNakedInThere now loading
+Achievement image idx 302 ItsWintertime now loading
+Achievement image idx 299 Speedup now loading
+Achievement image idx 0 ThePlowmaster now loading
+Achievement image idx 0 QuayKing now loading
+Achievement image idx 0 WithCanalsYouCan now loading
+Achievement image idx 0 WeNeedSnorkels now loading
+Achievement image idx 314 ShakeItUp now loading
+Achievement image idx 315 ItsHeadingRightForUs now loading
+Achievement image idx 317 DropTheBase now loading
+Achievement image idx 0 RunBambi now loading
+Achievement image idx 318 ThunderAndLightning now loading
+Achievement image idx 316 TwistAndShout now loading
+Achievement image idx 0 WhatThe now loading
+Achievement image idx 0 EternalCity now loading
+Achievement image idx 0 Creator now loading
+Achievement image idx 0 WeHaveAWinner now loading
+Achievement image idx 0 TheUnderdog now loading
+Achievement image idx 0 RejoiceAndBeFerry now loading
+Achievement image idx 0 FerryFaerie now loading
+Achievement image idx 0 Triorail now loading
+Achievement image idx 0 NotSoMono now loading
+Achievement image idx 0 ClarkCable now loading
+Achievement image idx 0 CablesGalore now loading
+Achievement image idx 0 BlimpBlimp now loading
+Achievement image idx 0 PutSomeBlimpInYourBlimp now loading
+Achievement image idx 0 ComboBreaker now loading
+Achievement image idx 301 NomenEstOmen now loading
+Achievement image idx 0 Centurion now loading
+Achievement image idx 0 ItsCalledSteve now loading
+Achievement image idx 0 TotallyInMotion now loading
+Achievement image idx 307 Reporting now loading
+Achievement image idx 0 SuperSelfSufficient now loading
+Achievement image idx 0 IToTheT now loading
+Achievement image idx 0 Organistic now loading
+Achievement image idx 292 GreenEnergy now loading
+Achievement image idx 0 FriendlyTeaching now loading
+Achievement image idx 320 GreenestCity now loading
+OnAchievementIconFetched()
+Fetched image for Pioneer
+OnAchievementIconFetched()
+Fetched image for CityPlanner
+OnAchievementIconFetched()
+Fetched image for Lawmaker
+OnAchievementIconFetched()
+Fetched image for PowerAtYourFingertips
+OnAchievementIconFetched()
+Fetched image for Medic
+OnAchievementIconFetched()
+Fetched image for Distroy
+OnAchievementIconFetched()
+Fetched image for UnpopularMayor
+OnAchievementIconFetched()
+Fetched image for RollingInDough
+OnAchievementIconFetched()
+Fetched image for HappyTown
+OnAchievementIconFetched()
+Fetched image for ToughCity
+OnAchievementIconFetched()
+Fetched image for PowerToThePeople
+OnAchievementIconFetched()
+Fetched image for MakeThemPay
+OnAchievementIconFetched()
+Fetched image for PrisonBreak
+OnAchievementIconFetched()
+Fetched image for 1001Nights
+OnAchievementIconFetched()
+Fetched image for DoesMyBumLookBigInThis
+OnAchievementIconFetched()
+Fetched image for SingingInThe
+OnAchievementIconFetched()
+Fetched image for FoggyWeather
+OnAchievementIconFetched()
+Fetched image for Brrr
+OnAchievementIconFetched()
+Fetched image for ILoveTrams
+OnAchievementIconFetched()
+Fetched image for ThePlowmaster
+OnAchievementIconFetched()
+Fetched image for WeNeedSnorkels
+OnAchievementIconFetched()
+Fetched image for RunBambi
+OnAchievementIconFetched()
+Fetched image for QuayKing
+OnAchievementIconFetched()
+Fetched image for WhatThe
+OnAchievementIconFetched()
+Fetched image for WithCanalsYouCan
+OnAchievementIconFetched()
+Fetched image for EternalCity
+OnAchievementIconFetched()
+Fetched image for Creator
+OnAchievementIconFetched()
+Fetched image for WeHaveAWinner
+OnAchievementIconFetched()
+Fetched image for TheUnderdog
+OnAchievementIconFetched()
+Fetched image for RejoiceAndBeFerry
+OnAchievementIconFetched()
+Fetched image for FerryFaerie
+OnAchievementIconFetched()
+Fetched image for Triorail
+OnAchievementIconFetched()
+Fetched image for NotSoMono
+OnAchievementIconFetched()
+Fetched image for ClarkCable
+OnAchievementIconFetched()
+Fetched image for CablesGalore
+OnAchievementIconFetched()
+Fetched image for BlimpBlimp
+OnAchievementIconFetched()
+Fetched image for PutSomeBlimpInYourBlimp
+OnAchievementIconFetched()
+Fetched image for ComboBreaker
+OnAchievementIconFetched()
+Fetched image for Centurion
+OnAchievementIconFetched()
+Fetched image for ItsCalledSteve
+OnAchievementIconFetched()
+Fetched image for TotallyInMotion
+OnAchievementIconFetched()
+Fetched image for SuperSelfSufficient
+OnAchievementIconFetched()
+Fetched image for IToTheT
+OnAchievementIconFetched()
+Fetched image for Organistic
+OnAchievementIconFetched()
+Fetched image for FriendlyTeaching
 Unloading Steamworks
-_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buf
-fers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_
-formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug
- GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_
-shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_pr
-ogram2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 66393784
-AudioManager: Using PulseAudio: Default Output Device
-Begin MonoManager ReloadAssembly
-Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.dll (this message is harmless)
-Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.dll into Unity Child Domain
-Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp.dll (this message is harmless)
-Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.UI.dll (this message is harmless)
-Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+ines/Cities_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
 Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ColossalManaged.dll (this message is harmless)
 Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ColossalManaged.dll into Unity Child Domain
@@ -84,33 +266,33 @@ Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Sky
 Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICities.dll into Unity Child Domain
 Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/PopsApiWrapper.dll (this message is harmless)
 Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/PopsApiWrapper.dll into Unity Child Domain
-- Completed reload, in  0.343 seconds
+- Completed reload, in  0.250 seconds
 Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.Core.dll (this message is harmless)
 Platform assembly: /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.dll (this message is harmless)
-New context 0x502cee8 created with attributes:
+New context 0x3db8ad8 created with attributes:
 Default vsync count 1
-requesting resize 1920 x 1200
+requesting resize 1920 x 1080
 Using native desktop resolution 1920 x 1080
 requesting fullscreen 1920 x 1080 at 0 Hz
 Desktop is 1920 x 1080 @ 60 Hz
-UnloadTime: 4.444000 ms
+UnloadTime: 1.448000 ms
 Game mode
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.250000 ms
+UnloadTime: 0.391000 ms
 Machine ID: 6cc14b303dee4a92a8533195f91ae111
 Model: PC
-OS: Linux 4.13 ManjaroLinux 17.0.5 64bit
+OS: Linux 4.15 ManjaroLinux 17.1-rc3 64bit
 Language: English
 CPU: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz (8 core(s))
-System Memory: 7907
+System Memory: 7903
 Gfx Device: GeForce GTX 860M/PCIe/SSE2
-Gfx Version: OpenGL 4.5.0 NVIDIA 384.90
+Gfx Version: OpenGL 4.5.0 NVIDIA 384.98
 Gfx Memory: 2048
 Gfx Shader Model: 50
-Game Version: 1.9.0-f5-steam-linux
+Game Version: 1.9.1-f3-steam-linux
 
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -309,8 +491,8 @@ Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Non platform assembly: data-0x5d4ee40 (this message is harmless)
-Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d4ee40.so
+Non platform assembly: data-0x4ad39e0 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4ad39e0.so
 Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -319,8 +501,8 @@ Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Non platform assembly: data-0x5d55240 (this message is harmless)
-Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d55240.so
+Non platform assembly: data-0x4ab92d0 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4ab92d0.so
 Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -329,8 +511,8 @@ Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Non platform assembly: data-0x5d5cf80 (this message is harmless)
-Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d5cf80.so
+Non platform assembly: data-0x4ade0a0 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4ade0a0.so
 Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -339,8 +521,8 @@ Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Non platform assembly: data-0x5d5ecd0 (this message is harmless)
-Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d5ecd0.so
+Non platform assembly: data-0x4ae20f0 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4ae20f0.so
 Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -349,8 +531,8 @@ Loading /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Files
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Non platform assembly: data-0x5d60e50 (this message is harmless)
-Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x5d60e50.so
+Non platform assembly: data-0x4ae3300 (this message is harmless)
+Fallback handler could not load library /home/solidowl/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4ae3300.so
 Assembly UnlockAll3, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -372,11 +554,9 @@ PopsApi: Init complete
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2234.
-Total: 24.948002 ms (FindLiveObjects: 1.045000 ms CreateObjectMapping: 0.815000 ms MarkObjects: 23.045000 ms  DeleteObjects: 0.042000 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2237.
+Total: 8.083000 ms (FindLiveObjects: 0.189000 ms CreateObjectMapping: 0.091000 ms MarkObjects: 7.765000 ms  DeleteObjects: 0.036000 ms)
 
-Changing real window size to 1920 x 1200
-Desktop is 1920 x 1080 @ 60 Hz
 GfxDevice: creating device client; threaded=1
 GfxDevice: creating device client; threaded=1
 requesting resize 1920 x 1080
@@ -384,10 +564,133 @@ Using native desktop resolution 1920 x 1080
 requesting fullscreen 1920 x 1080 at 0 Hz
 Desktop is 1920 x 1080 @ 60 Hz
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.103000 ms
+UnloadTime: 0.615000 ms
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2268.
-Total: 48.146999 ms (FindLiveObjects: 0.280000 ms CreateObjectMapping: 0.132000 ms MarkObjects: 47.587997 ms  DeleteObjects: 0.147000 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 13.240000 ms (FindLiveObjects: 0.732000 ms CreateObjectMapping: 0.195000 ms MarkObjects: 12.272000 ms  DeleteObjects: 0.040000 ms)
+
+Changing real window size to 1920 x 1200
+Changing real window size to 1920 x 1080
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Changing real window size to 1920 x 1200
+Loading simulation data from: Black Woods_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1126.760986 ms
+
+Unloading 6499 unused Assets to reduce memory usage. Loaded Objects now: 4225.
+Total: 31.316002 ms (FindLiveObjects: 0.494000 ms CreateObjectMapping: 0.558000 ms MarkObjects: 18.521999 ms  DeleteObjects: 11.741000 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 02  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 02  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded simulation data from: Black Woods_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Tsunami  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Earthquake  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Sinkhole  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Meteor Strike  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Thunderstorm  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Forest Fire  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Tornado  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+requesting resize 1680 x 1050
+resizing window to 1680 x 1050
+Desktop is 1920 x 1080 @ 60 Hz
+Desktop is 1920 x 1200 @ 59 Hz
+GfxDevice: creating device client; threaded=1
+requesting resize 1680 x 1050
+resizing window to 1680 x 1050
+Desktop is 1920 x 1200 @ 59 Hz
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/gameSettings.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 PopsApi: Shutdown complete
  
@@ -397,15 +700,11 @@ Waiting for simulation to quit...  [Core]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Saving /home/solidowl/.local/share/Colossal Order/Cities_Skylines/gameSettings.cgs  [Settings - Internal]
- 
-(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 7f37bfffd700 -> priority: 1 
-  Thread -> id: 7f37bf7fc700 -> priority: 1 
-  Thread -> id: 7f37beffb700 -> priority: 1 
-  Thread -> id: 7f37be7fa700 -> priority: 1 
+  Thread -> id: 7f6626fff700 -> priority: 1 
+  Thread -> id: 7f65d8ffe700 -> priority: 1 
+  Thread -> id: 7f65e4ffd700 -> priority: 1 
+  Thread -> id: 7f6608822700 -> priority: 1 
 GameSettings Monitor Exiting...  [Settings - Internal]
  
 (Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)

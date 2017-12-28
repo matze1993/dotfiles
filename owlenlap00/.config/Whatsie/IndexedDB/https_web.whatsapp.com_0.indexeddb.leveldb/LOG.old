@@ -1,3 +1,5 @@
-2017/12/26-20:47:40.018 1283 Reusing MANIFEST /home/solidowl/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2017/12/26-20:47:40.018 1283 Recovering log #15
-2017/12/26-20:47:40.174 1283 Reusing old log /home/solidowl/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2017/12/28-04:52:06.165 1284 Reusing MANIFEST /home/solidowl/gits/dotfiles/owlenlap00/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/12/28-04:52:06.165 1284 Recovering log #15
+2017/12/28-04:52:06.256 1284 Reusing old log /home/solidowl/gits/dotfiles/owlenlap00/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2017/12/28-04:52:06.256 1284 Delete type=0 #11
+2017/12/28-04:52:06.256 1284 Delete type=2 #13

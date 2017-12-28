@@ -7,7 +7,6 @@ set $mod Mod4
 #can't use chsh to set my default shell(university setup)
 set $terminal0 /bin/termite
 
-set $webbrowser /bin/firefox-developer
 set $filebrowser /bin/pcmanfm
 set $mailprog /bin/thunderbird
 set $musicplayer /bin/spotify
@@ -88,7 +87,7 @@ mode "borders"{
 
 set $applaunch 1 Webbrowser 2 Filebrowser 3 SU-Filebrowser 4 Mail 5 Music 6 Office 7 NM 8 BT 9 grsync 0 arandr
 mode "$applaunch"{
-	bindsym 1 exec --no-startup-id $webbrower, mode "default"
+	bindsym 1 exec --no-startup-id firefox-developer-edition, mode "default"
 	bindsym w exec --no-startup-id firefox, mode "default"
 	bindsym 2 exec $filebrowser, mode "default"
 	bindsym 3 exec gksu $filebrowser, mode "default"
