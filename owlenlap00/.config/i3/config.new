@@ -13,7 +13,7 @@ set $musicplayer /bin/spotify
 set $office /bin/libreoffice
 
 set $locker pixellock.sh
-set $bar polybar -c $HOME/.config/polybar/mybar main
+set $bar $HOME/.bin/launchpolybar.sh
 
 #settings
 new_window normal
@@ -32,12 +32,11 @@ exec --no-startup-id pulseaudio
 #exec --no-startup-id pa-applet
 
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-exec --no-startup-id nitrogen --restore; sleep 1; compton -b
 exec --no-startup-id nm-applet
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id blueman-applet
-exec --no-startup-id start_conky_live_solarized
+#exec --no-startup-id start_conky_live_solarized
 exec --no-startup-id xautolock -time 10 -locker $locker
 exec --no-startup-id keepassxc
 exec --no-startup-id telegram
@@ -46,8 +45,10 @@ exec --no-startup-id shutter
 exec --no-startup-id whatsie
 exec --no-startup-id $bar
 
+
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
+exec_always --no-startup-id wal -R; sleep 1; nitrogen --restore; sleep 1; compton -b
 
 #modes
 #shutdown mode, lock pc, restart i3, reload i3 conf, 
@@ -69,7 +70,7 @@ mode "resize" {
         bindsym k resize shrink height 5 px or 5 ppt
         bindsym l resize grow width 5 px or 5 ppt
 
-        # exit resize mode: Enter or Escape
+        # exit resize : Enter or Escape
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
@@ -194,8 +195,7 @@ bindsym $mod+t exec --no-startup-id pkill compton
 bindsym $mod+Ctrl+t exec --no-startup-id compton -b
 
 bindsym $mod+n --release exec "killall dunst; exec notify-send 'restart dunst'"
-bindsym $mod+m exec pkill polybar
-bindsym $mod+Shift+m exec --no-startup-id $bar
+bindsym $mod+m exec $bar
 
 #mediakeys etc
 # Screen brightness controls
@@ -237,8 +237,16 @@ bindsym Print exec --no-startup-id i3-scrot
 bindsym $mod+Print --release exec --no-startup-id i3-scrot -w
 bindsym $mod+Shift+Print --release exec --no-startup-id i3-scrot -s
 
-#toggle slitoriantation
-bindsym $mod+o layout toggle split
+#toggle splitoriantation
+bindsym $mod+o split toggle
+bindsym $mod+Ctrl+o split horizontal
+bindsym $mod+Shift+o split toggle
+
+#layoutops
+bindsym $mod+p layout toggle
+bindsym $mod+Ctrl+p layout toggle split
+bindsym $mod+Ctrl+Shift+p layout toggle all
+bindsym $mod+Shift+p layout toggle splitv splith
 
 #toggle sticky
 bindsym $mod+s sticky toggle
@@ -301,14 +309,42 @@ bindsym $mod+b mode "borders"
 bindsym $mod+a mode "$applaunch"
 bindsym $mod+Shift+g mode "$mode_gaps"
 
+#colors
+set_from_resource $co0 i3wm.color0
+set_from_resource $co1 i3wm.color1
+set_from_resource $co2 i3wm.color2
+set_from_resource $co3 i3wm.color3
+set_from_resource $co4 i3wm.color4
+set_from_resource $co5 i3wm.color5
+set_from_resource $co6 i3wm.color6
+set_from_resource $co7 i3wm.color7
+set_from_resource $co8 i3wm.color8
+set_from_resource $co9 i3wm.color9
+set_from_resource $co10 i3wm.color10
+set_from_resource $co11 i3wm.color11
+set_from_resource $co12 i3wm.color12
+set_from_resource $co13 i3wm.color13
+set_from_resource $co14 i3wm.color14
+set_from_resource $co15 i3wm.color15
+
+# class                 border  backgr. text indicator child_border
+client.focused          $co0     $co4     $co0  $co4       $co0
+client.focused_inactive $co0     $co7     $co2  $co7       $co0
+client.unfocused        $co0     $co6     $co2  $co6       $co0
+client.urgent           $co9     $co1     $co0  $co1       $co0
+client.placeholder      $co0     $co8     $co2  $co8       $co0
+
+client.background       $co0
+
+
 #color scheme
-# class                 border  bground text    indicator child_border
-client.focused          #000000 #666666 #FFFFFF #FFFFFF   #FFFFFF
-client.focused_inactive #222222 #222222 #FFFFFF #222222   #FFFFFF
-client.unfocused        #111111 #111111 #888888 #111111   #FFFFFF
-client.urgent           #FF0000 #FF0000 #000000 #FF0000   #900000
-client.placeholder      #101010 #101010 #FFFFFF #101010   #FFFFFF
-client.background       #444444
+# class                 border  co7round text    indicator child_border
+#client.focused          #000000 #666666 #FFFFFF #FFFFFF   #FFFFFF
+#client.focused_inactive #222222 #222222 #FFFFFF #222222   #FFFFFF
+#client.unfocused        #111111 #111111 #888888 #111111   #FFFFFF
+#client.urgent           #FF0000 #FF0000 #000000 #FF0000   #900000
+#client.placeholder      #101010 #101010 #FFFFFF #101010   #FFFFFF
+#client.background       #444444
 
 #bar {
 #  status_command i3status
@@ -340,8 +376,8 @@ client.background       #444444
 #############################
 
 # Set inner/outer gaps
-gaps inner 10
-gaps outer 5
+gaps inner 7
+gaps outer 0
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
 # gaps inner|outer current|all set|plus|minus <px>
@@ -349,11 +385,11 @@ gaps outer 5
 # gaps outer all plus 5
 
 # Smart gaps (gaps used if only more than one container on the workspace)
-smart_gaps on
+#smart_gaps on
 
 # Smart borders (draw borders around container only if it is not the only container on this workspace) 
 # on|no_gaps (on=always activate and no_gaps=only activate if the gap size to the edge of the screen is 0)
-# smart_borders on
+smart_borders no_gaps
 
 # Press $mod+Shift+g to enter the gap mode. Choose o or i for modifying outer/inner gaps. Press one of + / - (in-/decrement for current workspace) or 0 (remove gaps for current workspace). If you also press Shift with these keys, the change will be global for all workspaces.
 set $mode_gaps Gaps: (o) outer, (i) inner

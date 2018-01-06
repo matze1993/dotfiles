@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-web-browser.desktop,exo-mail-reader.desktop,pamac-manager.desktop
-recent=hexchat.desktop,xfce-settings-manager.desktop,spotify.desktop,firefox.desktop,exo-terminal-emulator.desktop,alltray.desktop,keepass.desktop,jetbrains-gogland.desktop,telegramdesktop.desktop,thunderbird.desktop
+recent=hexchat.desktop,xfce-settings-manager.desktop,spotify.desktop,firefox.desktop,exo-terminal-emulator.desktop,alltray.desktop,keepass.desktop,telegramdesktop.desktop,thunderbird.desktop
 button-title=Applications
 button-icon=/usr/share/icons/whiskermenu-manjaro.svg
 button-single-row=false
@@ -20,7 +20,7 @@ position-search-alternate=false
 position-commands-alternate=false
 position-categories-alternate=false
 menu-width=640
-menu-height=1062
+menu-height=768
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true

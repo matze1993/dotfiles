@@ -1,5 +1,5 @@
 [colors]
-background = #be2f343f
+#background = #be2f343f
 background-alt = #be2f343f
 foreground = #f3f4f5
 foreground-alt = #f3f4f5
@@ -11,13 +11,28 @@ alert = #ff6600
 high = #268bd2
 high-alt = #0c2b41
 
-red = #eb606b
-green = #c3e88d
-yellow = #f7eb95
-blue = #aeddff
-magenta = #6c71c3
-cyan = #80cbc3
-white = #ffffff
+#red = #eb606b
+#green = #c3e88d
+#yellow = #f7eb95
+#blue = #aeddff
+#magenta = #6c71c3
+#cyan = #80cbc3
+#white = #ffffff
+
+
+background = ${xrdb:color0}
+#foreground = ${xrdb:foreground}
+black = ${xrdb:color0}
+red = ${xrdb:color1}
+green = ${xrdb:color2}
+yellow = ${xrdb:color3}
+blue = ${xrdb:color4}
+magenta = ${xrdb:color5}
+cyan = ${xrdb:color6}
+white = ${xrdb:color7}
+
+
+
 
 ; [global/wm]
 ; margin-top = 5

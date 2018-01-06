@@ -13,55 +13,40 @@ scrollback_lines	=	10000
 # Base16 OceanicNext
 # Scheme: https://github.com/voronianski/oceanic-next-color-scheme
 
-foreground      = color0
-foreground_bold = color1
-cursor          = color2
-background      = color3
+foreground      = color7
+foreground_bold = color15
+cursor          = color7
+background      = color0
 
-# 16 color space
-#color0  = #1B2B34
-#color1  = #EC5f67
-#color2  = #99C794
-#color3  = #FAC863
-#color4  = #6699CC
-#color5  = #C594C5
-#color6  = #5FB3B3
-#color7  = #C0C5CE
-#color8  = #65737E
-#color9  = #EC5f67
-#color10 = #99C794
-#color11 = #FAC863
-#color12 = #6699CC
-#color13 = #C594C5
-#color14 = #5FB3B3
-#color15 = #D8DEE9
+# black
+color0  = #37acfa
+color8  = #006eff
 
-[colors]
+# red
+color1  = #4487c4
+color9  = #0049a2
 
-color0 = #1d2327
-color1 = #3a454f
-color2 = #445567
-color3 = #03060b
-color4 = #273341
-color5 = #597897
-color6 = #4c6581
-color7 = #899eb1
-color8 = #6d89ae
-color9 = #92b1d7
-color10 = #aebbcb
-color11 = #1d2327
-color12 = #3a454f
-color13 = #445567
-color14 = #03060b
-color15 = #2c343d
+# green
+color2  = #3167a1
+color10 = #004ba7
 
+# yellow
+color3  = #274c89
+color11 = #015994
 
-# 256 color space
-color16 = #F99157
-color17 = #AB7967
-color18 = #343D46
-color19 = #4F5B66
-color20 = #A7ADBA
-color21 = #CDD3DE
+# blue
+color4  = #2f547e
+color12 = #00539f
 
+# magenta
+color5  = #2d6798
+color13 = #0051a7
+
+# cyan
+color6  = #235995
+color14 = #0047bd
+
+# white
+color7  = #275e91
+color15 = #005abf
 

@@ -1,0 +1,14 @@
+144 [10:54:38] ### Log session started ###
+92 [10:54:38] No common channels for !n*status [znc@!hznc.in]
+26 [10:54:38] <10!nc*status!znc@!hznc.in> A client from [131.159.42.143] attempted to login as you, but was rejected [Invalid Password].
+26 [10:54:48] <10!nc*status!znc@!hznc.in> A client from [131.159.42.143] attempted to login as you, but was rejected [Invalid Password].
+10 [10:56:21] Connection to server lost
+144 [10:56:21] ### Log session terminated ###
+144 [10:54:38] ### Log session started ###
+92 [10:54:38] No common channels for !n*status [znc@!hznc.in]
+26 [10:54:38] <10!nc*status!znc@!hznc.in> A client from [131.159.42.143] attempted to login as you, but was rejected [Invalid Password].
+26 [10:54:48] <10!nc*status!znc@!hznc.in> A client from [131.159.42.143] attempted to login as you, but was rejected [Invalid Password].
+10 [13:52:07] Connection to server lost
+8 [13:52:18] Connection to server established
+92 [13:52:18] No common channels for !n*status [*@!h*]
+144 [13:52:18] ### Log session terminated ###

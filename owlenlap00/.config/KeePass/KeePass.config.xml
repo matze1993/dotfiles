@@ -40,10 +40,10 @@
 	</Application>
 	<Logging />
 	<MainWindow>
-		<X>191</X>
-		<Y>149</Y>
+		<X>64</X>
+		<Y>24</Y>
 		<Width>966</Width>
-		<Height>835</Height>
+		<Height>746</Height>
 		<SplitterHorizontalFrac>0.83208395802098956</SplitterHorizontalFrac>
 		<SplitterVerticalFrac>0.25</SplitterVerticalFrac>
 		<Layout>Default</Layout>

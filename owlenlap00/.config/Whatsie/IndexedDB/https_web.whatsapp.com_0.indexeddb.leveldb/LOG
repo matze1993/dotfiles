@@ -1,14 +1,3 @@
-2017/12/28-10:22:28.011 1241 Reusing MANIFEST /home/solidowl/gits/dotfiles/owlenlap00/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2017/12/28-10:22:28.011 1241 Recovering log #15
-2017/12/28-10:22:28.107 1241 Reusing old log /home/solidowl/gits/dotfiles/owlenlap00/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
-2017/12/28-10:51:49.087 5433 Level-0 table #22: started
-2017/12/28-10:51:49.226 5433 Level-0 table #22: 1223872 bytes OK
-2017/12/28-10:51:49.292 5433 Delete type=0 #15
-2017/12/28-12:02:07.917 5433 Compacting 1@1 + 2@2 files
-2017/12/28-12:02:08.242 5433 Generated table #23@1: 50507 keys, 2235222 bytes
-2017/12/28-12:02:08.365 5433 Generated table #24@1: 10805 keys, 683160 bytes
-2017/12/28-12:02:08.365 5433 Compacted 1@1 + 2@2 files => 2918382 bytes
-2017/12/28-12:02:08.478 5433 compacted to: files[ 0 0 2 0 0 0 0 ]
-2017/12/28-12:02:08.478 5433 Delete type=2 #22
-2017/12/28-12:02:08.478 5433 Delete type=2 #18
-2017/12/28-12:02:08.479 5433 Delete type=2 #19
+2018/01/05-22:34:58.231 1090 Reusing MANIFEST /home/solidowl/gits/dotfiles/owlenlap00/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/01/05-22:34:58.232 1090 Recovering log #26
+2018/01/05-22:34:58.381 1090 Reusing old log /home/solidowl/gits/dotfiles/owlenlap00/.config/Whatsie/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000026.log 

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="cursor" mtime="1514465498" type="string">
+	<entry name="cursor" mtime="1515154882" type="string">
 		<stringvalue>Breeze</stringvalue>
 	</entry>
 </gconf>

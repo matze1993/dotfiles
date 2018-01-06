@@ -11,7 +11,7 @@
     # <http://developer.gnome.org/pango/stable/PangoMarkupFormat.html>.
     # If markup is not allowed, those tags will be stripped out of the
     # message.
-    allow_markup = yes
+    markup = yes
     
     # The format of the message.  Possible variables are:
     #   %a  appname
@@ -31,7 +31,7 @@
     
     # Alignment of message text.
     # Possible values are "left", "center" and "right".
-    alignment = left
+    alignment = center
     
     # The frequency with wich text that is longer than the notification
     # window allows bounces back and forth.
@@ -131,18 +131,18 @@
     #  * foreground: use the same color as the foreground;
     #  * frame: use the same color as the frame;
     #  * anything else will be interpreted as a X color.
-    separator_color = #454947
+    separator_color = frame
     
     # Print a notification on startup.
     # This is mainly for error detection, since dbus (re-)starts dunst
     # automatically after a crash.
-    startup_notification = false
+    startup_notification = true
     
     # dmenu path.
     dmenu = /usr/bin/rofi -show run -p dunst:
     
     # Browser for opening urls in context menu.
-    browser = firefox-developer
+    browser = firefox-developer-edition
 
     # Align icons left/right/off
     icon_position = left
@@ -153,9 +153,9 @@
     # Limit icons size.
     max_icon_size=128
 
-[frame]
-    width = 3
-    color = "#000000"
+
+    frame_width = 3
+    frame_color = "#18111a"
 
 [shortcuts]
 
@@ -174,27 +174,40 @@
     # Redisplay last message(s).
     # On the US keyboard layout "grave" is normally above TAB and left
     # of "1".
-    history = ctrl+shift+,
+    history = ctrl+shift+grave
     
     # Context menu.
     context = ctrl+shift+period
 
+#[urgency_low]
+#    # IMPORTANT: colors have to be defined in quotation marks.
+#    # Otherwise the "#" and following would be interpreted as a comment.
+#    background = "#2B2C2B"
+#    foreground = "#888888"
+#    timeout = 10
+#
+#[urgency_normal]
+#    background = "#2B2C2B"
+#    foreground = "#F9FAF9"
+#    timeout = 10
+#
+#[urgency_critical]
+#    background = "#D62929"
+#    foreground = "#F9FAF9"
+#    timeout = 0
+
 [urgency_low]
-    # IMPORTANT: colors have to be defined in quotation marks.
-    # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#2B2C2B"
-    foreground = "#888888"
-    timeout = 10
-
+	background = "#c97b84"
+	foreground = "#18111a"
+	timeout = 10
 [urgency_normal]
-    background = "#2B2C2B"
-    foreground = "#F9FAF9"
-    timeout = 10
-
+	background = "#c97b84"
+	foreground = "#18111a"
+        timeout = 30
 [urgency_critical]
-    background = "#D62929"
-    foreground = "#F9FAF9"
-    timeout = 0
+        background = "#d46565"
+        foreground = "#18111a"
+        timeout = 0
 
 
 # Every section that isn't one of the above is interpreted as a rules to

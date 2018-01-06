@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="needs_terminal" mtime="1507909414" type="bool" value="false"/>
-	<entry name="enabled" mtime="1507909414" type="bool" value="true"/>
-	<entry name="command" mtime="1507909414" type="string">
-		<stringvalue>/opt/firefox-developer/firefox %s</stringvalue>
+	<entry name="needs_terminal" mtime="1515170366" type="bool" value="false"/>
+	<entry name="enabled" mtime="1515170366" type="bool" value="true"/>
+	<entry name="command" mtime="1515170366" type="string">
+		<stringvalue>/usr/lib/firefox-developer-edition/firefox %s</stringvalue>
 	</entry>
 </gconf>
