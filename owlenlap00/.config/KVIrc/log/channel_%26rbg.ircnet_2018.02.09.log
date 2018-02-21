@@ -1,0 +1,68 @@
+144 [10:18:22] ### Log session started ###
+20 [10:18:22] !npuchstei [~puchstei@!hpuchstein.bayern] has joined !c&rbg
+23 [10:18:22] Channel topic is: < ammbauer> zur zeit geistern die RBG-Weisen ständig durch die rechnerhalle. irgendwas funzt nicht. sie hauen auch oft mit der faust auf den tisch und schreien "ERLACHER"
+23 [10:18:22] Topic was set by !nbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de on Wed Sep 20 12:09:49 2017
+25 [10:18:22] <10!nc***!znc@!hznc.in> Buffer Playback...
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [07:04:19] Lozan!~Lozan@athelpdesk5.informatik.tu-muenchen.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [07:10:47] ziaras!~ziaras@athelpdesk7.informatik.tu-muenchen.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [08:37:49] zappet!~zappet@athelpdesk2.informatik.tu-muenchen.de joined
+25 [10:18:22] <2!ncOkona!~irc@!hokona.net> [10:14:56] kann jemand bitte netboot:ma-d2161 loeschen, ich bekome die Fehlermeldung:Value "netboot:ma-d2161" is not allowed for netboot (while calling procedure netboot_delete) 
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [10:29:49] Lozan!~Lozan@athelpdesk5.informatik.tu-muenchen.de quit with message: [EOF From client]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [16:50:53] ziaras!~ziaras@athelpdesk7.informatik.tu-muenchen.de quit with message: ["Leaving"]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [16:51:58] zappet!~zappet@athelpdesk2.informatik.tu-muenchen.de quit with message: [EOF From client]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [07:28:55] bamichae_!~bamichae@athelpdesk5.informatik.tu-muenchen.de joined
+25 [10:18:22] <3!ncbamichae_!~bamichae@!hathelpdesk5.informatik.tu-muenchen.de> [07:29:33] Helau zusammen!
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:14:28] bamichae_!~bamichae@athelpdesk5.informatik.tu-muenchen.de quit with message: ["Leaving"]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:27:08] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:27:53] Lozan!~Lozan@athelpdesk5.informatik.tu-muenchen.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:28:35] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:28:55] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:31:28] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:31:28] kahraman_!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:44:46] kahraman_!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [11:57:17] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [12:32:01] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [12:58:20] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:22] <6!nc*buffextras!buffextras@!hznc.in> [13:04:34] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:05:04] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:06:39] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:09:36] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:11:06] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:15:35] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:17:05] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:43:29] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:43:39] erbesdob!~erbesdob@rbgof147.informatik.tu-muenchen.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:44:41] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:45:01] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:48:14] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [13:48:15] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:30:41] Okona!~irc@okona.net quit with message: [Connection reset by peer]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:30:43] Okona!~irc@213.183.2.201 joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:42:51] Okona!~irc@213.183.2.201 quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:42:51] trapclap!~rofl@ipbcc08bab.dynamic.kabel-deutschland.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:42:51] erlacher_remote!~lerlacher@82.196.9.119 quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:42:51] trapclap!~rofl@ipbcc08bab.dynamic.kabel-deutschland.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:42:58] erlacher_remote!~lerlacher@leda.lerlacher.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:42:59] askrbg!~askrbg@vmrbg29.informatik.tu-muenchen.de set mode: !c+o !nerlacher_remote 
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:43:05] Okona!~irc@213.183.2.201 joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:48:36] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [EOF From client]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [14:48:58] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [15:05:03] kahraman!~kahraman@w213-46-v4.eduroam.dynamic.rbg.tum.de quit with message: [Ping timeout]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [15:51:54] erbesdob!~erbesdob@rbgof147.informatik.tu-muenchen.de quit with message: ["Leaving."]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [17:28:06] Lozan!~Lozan@athelpdesk5.informatik.tu-muenchen.de quit with message: ["Leaving"]
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [08:13:14] bauersi!~bauersi@atrbg59.informatik.tu-muenchen.de parted with message: []
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [08:13:55] bauersi!~bauersi@atrbg59.informatik.tu-muenchen.de joined
+25 [10:18:23] <6!nc*buffextras!buffextras@!hznc.in> [08:13:56] askrbg!~askrbg@vmrbg29.informatik.tu-muenchen.de set mode: !c+o !nbauersi 
+25 [10:18:23] <10!nc***!znc@!hznc.in> Playback Complete.
+86 [10:18:23] [Leaving away status after 0d 0h 0m 1s]: You are no longer marked as being away
+51 [10:18:26] !sTUM.DE [*@*] has set mode !c+kt bananensalami
+15 [10:18:29] Channel synchronized in 6.480 seconds
+20 [10:24:16] !nzappet [~zappet@!hathelpdesk2.informatik.tu-muenchen.de] has joined !c&rbg
+21 [10:25:35] !nOkona [~irc@!h213.183.2.201] has left !c&rbg
+24 [10:26:33] <7!ncpuchstei!~puchstei@!hpuchstein.bayern> luttenberger hat gerade angerufen, dass die ds2017@in.tum.de zu früh abgeschaltet worden sei und diese noch mindestens bis nächste woche benötigt wird, da studenten dort rückfragen zur klausur stellen
+20 [10:27:41] !nziaras [~ziaras@!hathelpdesk7.informatik.tu-muenchen.de] has joined !c&rbg
+2 [10:45:44] <6@!ncduermeia!~duermeia@!hvmrbg66.informatik.tu-muenchen.de> puchstei: hi, wurden bereits informiert und ist jetzt wieder i.O.! :)
+20 [12:32:58] !nstoyanov [~stoyanov@!hathelpdesk6.informatik.tu-muenchen.de] has joined !c&rbg
+20 [12:47:09] !nOkona [~irc@!h213.183.2.201] has joined !c&rbg
+20 [13:46:06] !nAntagonym [~Antagonym@!hlaprbg83.informatik.tu-muenchen.de] has joined !c&rbg
+34 [14:27:50] !nkurzk [~kurzk@!hatrbg13.informatik.tu-muenchen.de] has quit IRC: EOF From client

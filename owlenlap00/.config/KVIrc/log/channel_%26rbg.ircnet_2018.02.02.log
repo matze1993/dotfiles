@@ -1,0 +1,53 @@
+144 [10:48:47] ### Log session started ###
+20 [10:48:47] !npuchstei [~mpuchstei@!hlaprbg108.informatik.tu-muenchen.de] has joined !c&rbg
+23 [10:48:47] Channel topic is: < ammbauer> zur zeit geistern die RBG-Weisen ständig durch die rechnerhalle. irgendwas funzt nicht. sie hauen auch oft mit der faust auf den tisch und schreien "ERLACHER"
+23 [10:48:47] Topic was set by !nbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de on Wed Sep 20 12:09:49 2017
+51 [10:48:48] !sTUM.DE [*@*] has set mode !c+tk bananensalami
+15 [10:48:50] Channel synchronized in 2.917 seconds
+25 [11:15:35] <2@!ncOkona!~irc@!hokona.net> Kann es sein, dass die gruppe "postdrop" gid=19234 aus dem ldap entfernt wurde?
+25 [11:19:22] <2@!ncOkona!~irc@!hokona.net> Gibt es dafuer einen speziellen Grund? Das zerbricht bei mir naemlich das apt System.
+25 [11:20:46] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> Okona: ja, wurde gelöscht
+25 [11:20:57] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> auf welchem system macht es apt kaputt?
+25 [11:21:05] <2@!ncOkona!~irc@!hokona.net> alle blackbox systeme
+25 [11:21:08] <2@!ncOkona!~irc@!hokona.net> lxhalle z.B.
+25 [11:22:11] <2@!ncOkona!~irc@!hokona.net> ich mein ich kann es auch lokal in /etc/group eintragen, aber dann koennte es ggf einen Clash bei der GID geben
+25 [11:22:21] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> denn eigentlich waren wir davon ausgegangen, dass apt-get sich die gruppe immer lokal installiert in die /etc/groups
+25 [11:22:47] <2@!ncOkona!~irc@!hokona.net> das scheint es nur zu machen, wenn er die gruppe nicht schon zuvor im ldap findet
+25 [11:23:07] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> ja, das scheint plausibel
+25 [11:23:26] <2@!ncOkona!~irc@!hokona.net> die Frage ist, wie loesen wir das am besten.
+25 [11:25:38] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> ich habe sie wieder hergestellt
+25 [11:25:46] <2@!ncOkona!~irc@!hokona.net> dankeschoen
+25 [11:26:26] <2@!ncOkona!~irc@!hokona.net> geht wieder, sehr gut.
+25 [11:26:39] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> eigentlich fände ich es sinnvoller, wenn systembenutzer und systemgruppen lokal in den files drinstehen, denn es gibt ja eigentlich keinen grund dafür, dass sowas global sein muss
+25 [11:27:04] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> aber uns war auch nicht klar, dass das überhaupt benutzt wird
+25 [11:27:10] <2@!ncOkona!~irc@!hokona.net> weisst du, warum das damals in den LDAP eingetragen wurde?
+25 [11:27:23] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> wir haben ein paar sachen gelöscht, wo herrmanm als betreuer eingetragen war, weil sein account jetzt abläuft
+25 [11:27:37] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> ich trage dann mal dich als betreuer ein und schreibe in die notes, dass es in der halle gebraucht wird
+25 [11:27:40] <2@!ncOkona!~irc@!hokona.net> es war mir auch nicht klar, dass das genutzt wird, bis ich so eine Fehlermeldung gesehen hatte…
+25 [11:27:56] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> die gruppe ist von 2002, damals hatten wir solaris, da war vermutlich vieles anders
+25 [11:28:02] <2@!ncOkona!~irc@!hokona.net> wenn es besser ist, dass das lokal ist, dann koennen wir uns auch ueberlegen, wie man das korrigieren kann
+25 [11:28:14] <2@!ncOkona!~irc@!hokona.net> ja, da wurde postfix wohl von hand installiert
+25 [11:28:53] <2@!ncOkona!~irc@!hokona.net> ich mein, ich ann auch einen find machen und alle gids aendern, hab aber da so Befuerchtungen, dass das seiteneffekte haben koennte.
+25 [11:28:57] <2@!ncOkona!~irc@!hokona.net> Wie siehst du das?
+25 [11:29:39] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> wenn du das auf eine lokale gruppe umgestellt kriegst, wäre es sicherlich gut
+25 [11:30:24] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> erstmal sollten wir gucken, ob die anderen gruppen und accounts vielleicht auch betroffen sind
+25 [11:30:29] <2@!ncOkona!~irc@!hokona.net> meinst du da ist mit einem suchen/ersetzen auf die GID alles getan?
+25 [11:30:40] <2@!ncOkona!~irc@!hokona.net> ja, das waere natuerlich nicht schlecht
+25 [11:31:06] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> wir haben auch die projektkennung "postfix" z.B. gelöscht
+25 [11:31:13] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> aber die ist auf lxhalle lokal eingerichtet
+25 [11:31:53] <2@!ncOkona!~irc@!hokona.net> ja, sehe ich grad
+25 [11:33:19] <2@!ncOkona!~irc@!hokona.net> ich denke das liegt hauptsaechlich dran, dass postfix nach Systeminstallation und nach Einrichtung des LDAP installiert wurde.
+25 [11:33:53] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> ist der benutzer "postfix" denn schon vor der installation von postfix da?
+25 [11:36:50] <2@!ncOkona!~irc@!hokona.net> das kann ich nicht sagen…
+25 [11:44:06] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> also hier die gruppen, die wir gelöscht haben:
+25 [11:44:16] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> 23019 (crypt) 22120 (cripti) 1652 (bib) 17595 (goose) 1008 (ftp) 10324 (cyrus) 12783 (rbghotline) 23528 (rbghotli) 12787 (filter) 19234 (postdrop) 3826 (postfix) 21610 (postgres) 17738 (rsync) 29771 (sshd) 23912 (virtmail) 15119 (virtmailer) 5177 (sambarbg) 8940 (bind) 17826 (sophos) 11443 (ausleihe) 17912 (bibverw) 18408 (hgsystem) 22552 (medoc) 10807 (medocserver)
+25 [11:44:53] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> hier die benutzer (d.h. projekte):
+25 [11:44:54] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> 30383 (crypt) 9469 (cripti) 17333 (bib) 15551 (ftp) 22698 (cyrus) 6023 (postfix) 24343 (postgres) 7514 (rsync) 13490 (virtmail) 26089 (clamav) 3097 (ausleihe)
+25 [11:45:54] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> es gab da halt so viel alten müll, das müssen wir halt langsam mal aufräumen.. sorry, wenn es dabei zu solchen zwischenfällen wie hier mit postdrop kommt
+25 [11:58:01] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> Okona: auf lxhalle habe ich das script /tmp/find-deleted.sh gebaut, um danach zu suchen
+25 [11:58:09] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> offenbar ist die gruppe postfix auch betroffen
+25 [11:58:18] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> führ es am besten mal mit root-rechten aus
+25 [12:17:03] <2@!ncOkona!~irc@!hokona.net> ein verz ist postfix:postfix eines postfix:postdrop, der rest sind dateien und Verzeichnisse mit postdrop
+25 [12:26:34] <10@!ncbetterworld!~pepe@!hatrbg87.informatik.tu-muenchen.de> ok
+25 [13:33:26] <6@!ncduermeia!~duermeia@!hvmrbg66.informatik.tu-muenchen.de> stoyanov: haben einen case beim LRZ aufgemacht
+34 [13:40:56] !nkurzk [~kurzk@!hatrbg13.informatik.tu-muenchen.de] has quit IRC: EOF From client

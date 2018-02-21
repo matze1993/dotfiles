@@ -215,7 +215,7 @@ stringLastImageDialogPath=
 stringCtcpUserInfoLocation=Munich
 stringLogsPath=local:///log
 [None]
-uintTotalConnectionTime=72386
+uintTotalConnectionTime=72436
 uintCustomCursorWidth=1
 uintToolBarButtonStyle=4
 boolEnableVisualEffects=true
@@ -250,7 +250,7 @@ uintTileMethod=5
 [Geometry]
 uintClassicWindowListMaximumButtonWidth=100
 rectRegisteredUsersDialogGeometry=50,50,600,450
-rectFrameGeometry=16,36,1888,1148
+rectFrameGeometry=2883,46,947,1146
 rectGeneralOptionsDialogGeometry=965,55,936,1008
 boolClassicWindowListSetMaximumButtonWidth=true
 boolFrameIsMaximized=false
